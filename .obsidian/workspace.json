@@ -11,11 +11,10 @@
             "id": "75096989398454c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Session -1.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session -1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session -1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session -1.md"
-              }
+              "state": {}
             }
           },
           {
