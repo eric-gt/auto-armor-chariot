@@ -128,13 +128,21 @@
                 "file": "Session -1.md"
               }
             }
+          },
+          {
+            "id": "2e1e1b95e6364cc2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
