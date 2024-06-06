@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f05749988d0654b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Questionnaire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session -1.md",
+                "file": "Character Questionnaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session -1.md",
+                "file": "Character Questionnaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session -1.md"
+                "file": "Character Questionnaire.md"
               }
             }
           },
@@ -154,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75096989398454c4",
+  "active": "f05749988d0654b3",
   "lastOpenFiles": [
-    "README.md",
     "Session -1.md",
+    "Character Questionnaire.md",
+    "README.md",
     "Welcome.md"
   ]
 }
