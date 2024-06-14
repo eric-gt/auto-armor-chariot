@@ -46,17 +46,17 @@
 4. Why is your character in the fight against the three imperial powers? Is it personal? Political idealism? Something else? 
     It’s definitely a sense of idealism. His time in the navy showed him the horrors of empire and he wants to atone
 5. What is your character’s ideal vision for the nation? What do you want the nation to look like if the revolution is successful?
-    
+    Tomoteoloma should be a free, independent nation. Its destiny should be forged by the Tomoteloman people
 6. Did your character fight in the first revolution? Why or why not? What are your character’s opinions on the first revolution? Its ideals? How it ended? 
-    
+    He sees himself as a servant of Tomoteloma. The first revolution ended in success and he was content to step into the background, seeing himself as too old to be someone choosing the destiny of the island. 
 7. Why did your character join the second revolution? Why would they join a revolution that already failed once?
     
 8. What was your character’s life like before the revolution? Were they a noble? Were they a peasant? A merchant? What were their opinions on the nobility? On the Amaranton Republic’s influence?
-    
+    Tomoteloma should be free!
 9. Was your character born in Tomoteloma? Did they move there from somewhere else? How do they feel about living there? Do they wish they lived somewhere else?
-    
+    Tomoteloma is his birthplace, but the sky and sea are his home
 10. Where is your character’s family from? If they aren't indigenous, why did your character or their family move there?
-    
+    Indigenous fishers on the northwestern coast
 
 - Is your character or their family indigenous? Are they colonizers or soldiers from one of the empires? Are they defectors? Were they foreign missionaries? Foreign sailors who were left behind by their crew or decided to abandon their crew? Foreign business people or plantation owners? Refugees from other war torn nations? Immigrants looking for a better life by working on the plantations or going to the university? University staff? Is your family one of the paniolo families from Amaranton who came to teach Tomotelomans how to cattle ranch? Is your character a foreign mercenary? Something else?
     
