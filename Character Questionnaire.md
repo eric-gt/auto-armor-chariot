@@ -1,7 +1,7 @@
 **
 
 1. What does your character want? Why haven’t they gotten what they want yet?
-    
+     right now he wants to win the war. afterwards? i don’t think he knows. maybe he doesn’t think he’ll walk away from this fight
 2. Why is your character a revolutionary? Why didn’t they get a normal, safe job? Why haven’t they retired yet?
     Always been a naval guy. When airships became the new hotness, he made the switch
 3. What is your character’s relationship to their family like? Do they have any living family? What are your character’s family members like? How did these relationships impact your character growing up? How do they affect your character now?
@@ -44,26 +44,26 @@
 3. How much of your character’s life was before the revolution? What was their life like before the fighting began? What was their life before they joined the fight?
     Most of his life was before the revolution. When the revolution arrived he made a choice about which side to be on and he hasn’t looked back
 4. Why is your character in the fight against the three imperial powers? Is it personal? Political idealism? Something else? 
-    It’s definitely a sense of idealism. His time in the navy showed him the horrors of empire and he wants to atone
+    It’s definitely a sense of idealism. His time in the navy showed him the horrors of empire/the monarchy and he wants to atone
 5. What is your character’s ideal vision for the nation? What do you want the nation to look like if the revolution is successful?
-    Tomoteoloma should be a free, independent nation. Its destiny should be forged by the Tomoteloman people
+    Tomoteoloma should be a free, independent nation. Its destiny should be forged by the Tomoteoloman people
 6. Did your character fight in the first revolution? Why or why not? What are your character’s opinions on the first revolution? Its ideals? How it ended? 
-    He sees himself as a servant of Tomoteloma. The first revolution ended in success and he was content to step into the background, seeing himself as too old to be someone choosing the destiny of the island. 
+    He sees himself as a servant of Tomoteoloma. The first revolution ended in success and he was content to step into the background, seeing himself as too old to be someone choosing the destiny of the island. when annexation day came he was devastated
 7. Why did your character join the second revolution? Why would they join a revolution that already failed once?
-    
+     because he believes in the cause, and thinks it’s worth dying for
 8. What was your character’s life like before the revolution? Were they a noble? Were they a peasant? A merchant? What were their opinions on the nobility? On the Amaranton Republic’s influence?
-    Tomoteloma should be free!
+     he was an officer for the royal navy, with all the trappings. during the revolution he and his ship defected to the rebels and fought for their cause. he doesn’t hate the royal family, but he’s not going to back them as the leaders should the second revolution succeed 
 9. Was your character born in Tomoteloma? Did they move there from somewhere else? How do they feel about living there? Do they wish they lived somewhere else?
     Tomoteloma is his birthplace, but the sky and sea are his home
 10. Where is your character’s family from? If they aren't indigenous, why did your character or their family move there?
     Indigenous fishers on the northwestern coast
 
 - Is your character or their family indigenous? Are they colonizers or soldiers from one of the empires? Are they defectors? Were they foreign missionaries? Foreign sailors who were left behind by their crew or decided to abandon their crew? Foreign business people or plantation owners? Refugees from other war torn nations? Immigrants looking for a better life by working on the plantations or going to the university? University staff? Is your family one of the paniolo families from Amaranton who came to teach Tomotelomans how to cattle ranch? Is your character a foreign mercenary? Something else?
-    
+    indigenous
 
 12. What are your character’s views on the monarchy now? Were they happy the king was deposed? Angry? How do they feel about the monarchy and the Amaranton Republic being the main funders of the second revolution?
-    
+     
 13.  Where does your character sit on the main central conflicts? Nature vs. Industry? Science vs. Supernatural? Imperial science vs. Indigenous knowledge? Social hierarchies vs. Self-determination?
-    
+    he was a much more hard line royalist/industrialist kind of person before the encounter with the leviathan. now he’s questioning himself
 
 **
