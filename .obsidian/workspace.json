@@ -30,19 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7467956b9860a13a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Questionnaire.md",
+                "file": "Session -1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Questionnaire.md",
+                "file": "Session -1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Questionnaire.md"
+                "file": "Session -1.md"
               }
             }
           },
@@ -177,10 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7467956b9860a13a",
+  "active": "75096989398454c4",
   "lastOpenFiles": [
-    "Session -1.md",
     "Character Questionnaire.md",
+    "Session -1.md",
     "README.md",
     "Welcome.md"
   ]
