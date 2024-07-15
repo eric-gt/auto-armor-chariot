@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7467956b9860a13a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f05749988d0654b3",
+  "active": "7467956b9860a13a",
   "lastOpenFiles": [
     "Session -1.md",
     "Character Questionnaire.md",
