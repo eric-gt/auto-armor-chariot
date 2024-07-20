@@ -13,7 +13,7 @@
 6. Who is the most important person to your character? Why are they important to you?
     He is a captain in the truest sense. He will send his sailors to die, and he will die alongside them
 7. Where is your character from? What’s their hometown like? How did growing up there impact your character?
-    He grew up on [[Tomoteoloma]] in a fishing village, but left when he was old enough to lie about his age and get on a ship 
+    He grew up on [[Tomoteloma]] in a fishing village, but left when he was old enough to lie about his age and get on a ship 
 8. Where is your character’s home? Where have they been that felt the most like where they’re supposed to be? Why does that place feel like home?
     He’s always been a wanderer, and his shore leave has been spent on another boat. He’ll spend time in the capital for political reasons, and keeps a small room there
 9. How far is your character willing to go to get what they want? Would they sacrifice their friends? Would they sacrifice their family? Would they sacrifice themself?
@@ -46,9 +46,9 @@
 4. Why is your character in the fight against the three [[imperial powers]]? Is it personal? Political idealism? Something else? 
     It’s definitely a sense of idealism. His time in the navy showed him the horrors of empire/the monarchy and he wants to atone
 5. What is your character’s ideal vision for the nation? What do you want the nation to look like if the revolution is successful?
-    [[Tomoteoloma]] should be a free, independent nation. Its destiny should be forged by the Tomoteoloman people
+    [[Tomoteloma]] should be a free, independent nation. Its destiny should be forged by the Tomoteoloman people
 6. Did your character fight in the [[first revolution]]? Why or why not? What are your character’s opinions on the first revolution? Its ideals? How it ended? 
-    He sees himself as a servant of [[Tomoteoloma]]. The first revolution ended in success and he was content to step into the background, seeing himself as too old to be someone choosing the destiny of the island. when annexation day came he was devastated
+    He sees himself as a servant of [[Tomoteloma]]. The first revolution ended in success and he was content to step into the background, seeing himself as too old to be someone choosing the destiny of the island. when annexation day came he was devastated
 7. Why did your character join the second revolution? Why would they join a revolution that already failed once?
      because he believes in the cause, and thinks it’s worth dying for
 8. What was your character’s life like before the revolution? Were they a noble? Were they a peasant? A merchant? What were their opinions on the nobility? On the [[Amaranton Republic|Amaranton Republic’s]] influence?
