@@ -8,12 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75096989398454c4",
+            "id": "f8bfd3ee8afdec48",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "31dafbbd93a9c778",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a770edd9410c6154",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session -1.md",
+                "file": "Session-1 2024-07-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75096989398454c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session -0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session -1.md",
+                "file": "Character Questionnaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session -1.md",
+                "file": "Character Questionnaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session -1.md"
+                "file": "Character Questionnaire.md"
               }
             }
           },
@@ -166,10 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75096989398454c4",
+  "active": "f05749988d0654b3",
   "lastOpenFiles": [
+    "Session-1 2024-07-20.md",
+    "Session -0.md",
     "Character Questionnaire.md",
-    "Session -1.md",
     "README.md",
     "Welcome.md"
   ]
