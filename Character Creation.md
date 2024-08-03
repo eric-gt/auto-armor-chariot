@@ -9,4 +9,4 @@ Character Sheets:
 [[Isaac Was'utala Wasomun ~ The Captain]]
 [[Yuri Artorianova]]
 [[Ommatokoita Ancylos Lichtenberg]]
-[[Chief O'Brien]]
+[[M.C. TBD]]
