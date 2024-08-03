@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "d1c562e012611aca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "31dafbbd93a9c778",
@@ -68,9 +81,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b7bf0be9b3f3f7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Captain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "89bc3860decd24a5",
@@ -137,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Questionnaire.md",
+                "file": "Character Creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Questionnaire.md",
+                "file": "Character Creation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Questionnaire.md"
+                "file": "Character Creation.md"
               }
             }
           },
@@ -207,13 +231,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e067d2d445936ce",
+  "active": "d1c562e012611aca",
   "lastOpenFiles": [
+    "The Captain.md",
+    "Character Creation.md",
+    "README.md",
     "Character Questionnaire.md",
     "Session -0.md",
     "Session-1 2024-07-20.md",
     "Tomoteloma.md",
-    "README.md",
     "Welcome.md"
   ]
 }
