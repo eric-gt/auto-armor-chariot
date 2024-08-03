@@ -4,3 +4,9 @@ Able to get serious with needs be and not undercut that seriousness, but at the 
  Characters are "slick, cool, heroic, Cowboy BeBop"
 
 Avoid wallowing, pessimism, cynicism, but realistic
+
+Character Sheets:
+[[Isaac Was'utala Wasomun ~ The Captain]]
+[[Yuri Artorianova]]
+[[Ommatokoita Ancylos Lichtenberg]]
+[[Chief O'Brien]]
