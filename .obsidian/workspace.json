@@ -11,8 +11,12 @@
             "id": "f8bfd3ee8afdec48",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Invisible Hand.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -92,21 +96,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ec527bd770585624",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Invisible Hand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -172,6 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Invisible Hand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Invisible Hand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Invisible Hand.md"
+              }
             }
           },
           {
@@ -240,8 +236,10 @@
   },
   "active": "f8bfd3ee8afdec48",
   "lastOpenFiles": [
-    "The Invisible Hand.md",
     "Isaac Was'utala Wasomun ~ The Captain.md",
+    "The Invisible Hand.md",
+    "guided.md",
+    "one-use.md",
     "M.C. TBD.md",
     "Character Creation.md",
     "Yuri Artorianova.md",
