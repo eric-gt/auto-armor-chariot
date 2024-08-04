@@ -25,6 +25,10 @@ Secondary Weapons
 
 
 # Crew
-CMO
-Chief of Engineering
-Junior Channelers 
+Ship's Doctor: [[Shitass McMedical Student]]
+Ship's Engineer: [[Ex-Doctor, Best Engineer]]
+Demon Engineer: [[M.C. TBD]] and [[Ommatokoita Ancylos Lichtenberg|Lichtenberg]]'s 
+Ensign Channelers [[April Johnson]] & [[May Johnson]]
+Ship's Navigator
+Helmsman
+Communications
