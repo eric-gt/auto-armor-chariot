@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Invisible Hand.md",
+                "file": "Isaac Was'utala Wasomun ~ The Captain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Invisible Hand.md",
+                "file": "Isaac Was'utala Wasomun ~ The Captain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Invisible Hand.md"
+                "file": "Isaac Was'utala Wasomun ~ The Captain.md"
               }
             }
           },
@@ -234,10 +234,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8bfd3ee8afdec48",
+  "active": "6b7bf0be9b3f3f7d",
   "lastOpenFiles": [
-    "Isaac Was'utala Wasomun ~ The Captain.md",
     "The Invisible Hand.md",
+    "Isaac Was'utala Wasomun ~ The Captain.md",
     "guided.md",
     "one-use.md",
     "M.C. TBD.md",

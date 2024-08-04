@@ -3,22 +3,25 @@ tags:
   - character-sheet
 ---
 # STATS
-## DEFY
-## SENSE
-## TALK
-## CLASH
-## KNOW
+## DEFY: 0
+## SENSE: 1
+## TALK: 1
+## CLASH: -1
+## KNOW: 2
 
 The Captain LOOKS upright
 The Captain WEARS an officer's coat
 The Captain LEADS with: tested experience
 
 # GEAR
-Gilded Sidearm I (ranged/versatile)
+- Gilded Sidearm I (ranged, versatile)
+- Captain's uniform from the era of the Monarchy, but with all sigils stripped and replaced with iconography of the Revolution/Republic
 
 # Crew/Carrier Bonuses
 ### Cloaking Rituals
+Enchantments that can hide the carrier from sight
 ### Marine Infantry
+
 
 # QUARTERS
 
