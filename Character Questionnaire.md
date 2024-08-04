@@ -17,7 +17,7 @@
 8. Where is your character’s home? Where have they been that felt the most like where they’re supposed to be? Why does that place feel like home?
     He’s always been a wanderer, and his shore leave has been spent on another boat. He’ll spend time in the capital for political reasons, and keeps a small room there
 9. How far is your character willing to go to get what they want? Would they sacrifice their friends? Would they sacrifice their family? Would they sacrifice themself?
-    In the first war, the answer was yes, yes, and yes. But after his experience with the [[leviathans|leviathan]], he’s left questioning everything
+    In the first war, the answer was yes, yes, and yes. But after his experience with the [[Leviathans|leviathan]], he’s left questioning everything
 10. What is your character’s code of conduct? What are the principles that they live by?
     Loyalty to country, service, leadership, courage 
 11. If your character had a motto, what would it be?
@@ -39,7 +39,7 @@
 
 1. If your character is a [[Channeler]], where did they get their [[Demon Chariot]]? What is it made of and where did those materials come from? What does it look like? What does its construction and appearance say about your character?
      No chariot
-2. Is your character old enough to remember a time before [[leviathans]]? Before magic? Before electricity or steam power? What are your character's opinions on these rapid societal changes?
+2. Is your character old enough to remember a time before [[Leviathans|leviathans]]? Before magic? Before electricity or steam power? What are your character's opinions on these rapid societal changes?
     He’s in his late 50s, and has seen so much come and go in that time. He knows the future is coming and most of it he won’t be h there to see, but he can do something now to ensure future generations can make their own choices about where this island nation goes
 3. How much of your character’s life was before [[the revolution]]? What was their life like before the fighting began? What was their life before they joined the fight?
     Most of his life was before the revolution. When the revolution arrived he made a choice about which side to be on and he hasn’t looked back
@@ -48,7 +48,7 @@
 5. What is your character’s ideal vision for the nation? What do you want the nation to look like if the revolution is successful?
     [[Tomoteloma]] should be a free, independent nation. Its destiny should be forged by the Tomoteoloman people
 6. Did your character fight in the [[first revolution]]? Why or why not? What are your character’s opinions on the first revolution? Its ideals? How it ended? 
-    He sees himself as a servant of [[Tomoteloma]]. The first revolution ended in success and he was content to step into the background, seeing himself as too old to be someone choosing the destiny of the island. when annexation day came he was devastated
+    He sees himself as a servant of [[Tomoteloma]]. The first revolution ended in success and he was content to step into the background, seeing himself as too old to be someone choosing the destiny of the island. when [[Annexation Day]] came he was devastated
 7. Why did your character join the second revolution? Why would they join a revolution that already failed once?
      because he believes in the cause, and thinks it’s worth dying for
 8. What was your character’s life like before the revolution? Were they a noble? Were they a peasant? A merchant? What were their opinions on the nobility? On the [[Amaranton Republic|Amaranton Republic’s]] influence?

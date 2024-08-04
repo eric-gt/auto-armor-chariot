@@ -10,3 +10,5 @@ Character Sheets:
 [[Yuri Artorianova]]
 [[Ommatokoita Ancylos Lichtenberg]]
 [[M.C. TBD]]
+
+Carrier: [[The Invisible Hand]]

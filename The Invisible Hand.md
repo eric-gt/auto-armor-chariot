@@ -1,8 +1,16 @@
+---
+tags:
+  - vehicle
+  - Tomoteloma
+  - tier-5
+---
+
 Type: Airship
 Class: Pegasus
 Tier: 5
 Captain: [[Isaac Was'utala Wasomun ~ The Captain|Isaac Wasomun]]
 First Mate: [[Mister Jack]]
+CREW: +3
 
 
 Primary Weapon:  
