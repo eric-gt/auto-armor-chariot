@@ -8,92 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a770edd9410c6154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session-1 2024-07-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8bfd3ee8afdec48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Tomoteloman Monarchy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f05749988d0654b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tomoteloma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75096989398454c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session -0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e067d2d445936ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Questionnaire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6b7bf0be9b3f3f7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9aa42fd46bc268c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43fa74eadc102473",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Isaac Was'utala Wasomun ~ The Captain.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1bd36f71e92e61a3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9518c832376bf8e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Questionnaire.md",
-                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -164,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Tomoteloman Monarchy.md",
+                "file": "Isaac Was'utala Wasomun ~ The Captain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Tomoteloman Monarchy.md",
+                "file": "Isaac Was'utala Wasomun ~ The Captain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Tomoteloman Monarchy.md"
+                "file": "Isaac Was'utala Wasomun ~ The Captain.md"
               }
             }
           },
@@ -233,22 +174,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8bfd3ee8afdec48",
+  "active": "43fa74eadc102473",
   "lastOpenFiles": [
+    "Isaac Was'utala Wasomun ~ The Captain.md",
+    "Traits.md",
+    "TALK.md",
+    "SENSE.md",
+    "KNOW.md",
+    "CLASH.md",
+    "DEFY.md",
+    "Channeler.md",
+    "The Invisible Hand.md",
+    "Session-1 2024-07-20.md",
+    "README.md",
+    "The Captain.md",
+    "Vulture Collective.md",
+    "Vice Admiral Genevieve Awenema.md",
+    "The First Revolution.md",
+    "Tomoteloma.md",
+    "The Tomoteloman Monarchy.md",
+    "Character Questionnaire.md",
     "Session -0.md",
     "one-use.md",
-    "The Tomoteloman Monarchy.md",
-    "Isaac Was'utala Wasomun ~ The Captain.md",
-    "Character Questionnaire.md",
     "Character Creation - 2024-08-03.md",
-    "The Invisible Hand.md",
     "guided.md",
     "M.C. TBD.md",
     "Yuri Artorianova.md",
     "Ommatokoita Ancylos Lichtenberg.md",
-    "README.md",
-    "Session-1 2024-07-20.md",
-    "Tomoteloma.md",
     "Welcome.md"
   ]
 }

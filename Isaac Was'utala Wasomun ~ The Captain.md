@@ -4,12 +4,14 @@ tags:
   - player-character
   - Tomoteloma
 ---
+Played by: [[Eric]]
+Playbook: [[The Captain]] 
 # STATS
-## [[DEFY]]: 0
-## [[SENSE]]: 1
-## [[TALK]]: 1
-## [[CLASH]]: -1
-## [[KNOW]]: 2
+## [[Traits#DEFY|DEFY]]: 0
+## [[Traits#SENSE|SENSE]]: 1
+## [[Traits#TALK|TALK]]: 1
+## [[Traits#CLASH|CLASH]]: -1
+## [[Traits#KNOW|KNOW]]: 2
 
 The Captain LOOKS upright
 The Captain WEARS an officer's coat
@@ -30,15 +32,16 @@ they'll fight tooth and nail to defend the ship and its crew
 ## Description
 A library, filled with charts, operating manuals, and the Captain's personal collection of books, available to the crew. Mostly history and poetry, but every career military man has his fair share of books on military strategy and naval battle tactics.
 ## Benefits
-+1 to [[KNOW]]
-+1 to [[CREW]]
++1 to [[Traits#KNOW|KNOW]]
++1 to [[Traits#CREW|CREW]]
 
-# PLAYER [[MOVES]]
+# PLAYER [[Moves|MOVES]]
 ## In Command 
-You are the [[Carrier]]’s captain, and naturally have command of its crew. While at the helm of the Carrier, you may order the crew to perform moves on your behalf: unlike when other [[Playbooks]] use +[[CREW]], you may do this any number of times. Increase your Carrier’s +[[CREW]] by 1. When you do so, explain how the crew helps you do this thing—they share in the consequences of your move, good and bad. You are responsible for their lives. If things go bad rolling your [[Traits]], things go bad for you. If things go bad rolling +[[CREW]], you endanger everyone. Additionally, both [[Carrier]] and crew are part of your character as far as risks and perils are concerned, just like an [[Astir]] is an extension of its [[Channeler]]. To reflect the many minds and hands at work for you, you are [[Defenceless]] at 4 [[dangers]] while at the helm of your [[Carrier]], rather than 3. You go down with it, and it goes down with you
+
+You are the [[Carrier]]’s captain, and naturally have command of its crew. While at the helm of the [[Carrier]], you may order the crew to perform moves on your behalf: unlike when other [[Playbooks]] use +[[Traits#CREW|CREW]], you may do this any number of times. Increase your Carrier’s +[[Traits#CREW|CREW]] by 1. When you do so, explain how the crew helps you do this thing—they share in the consequences of your move, good and bad. You are responsible for their lives. If things go bad rolling your [[Traits]], things go bad for you. If things go bad rolling +[[Traits#CREW|CREW]], you endanger everyone. Additionally, both [[Carrier]] and crew are part of your character as far as risks and perils are concerned, just like an [[Astir]] is an extension of its [[Channeler]]. To reflect the many minds and hands at work for you, you are [[Defenceless]] at 4 [[dangers]] while at the helm of your [[Carrier]], rather than 3. You go down with it, and it goes down with you
 
 ## Tactical Genius
-When you're supervising allies from afar during a Sortie, you can lever your tactical know-how into better positioning. Take 1+[[KNOW]] hold at the start of a Sortie, and spend it 1-for-1 to do the following;
+When you're supervising allies from afar during a Sortie, you can lever your tactical know-how into better positioning. Take 1+[[Traits#KNOW|KNOW]] hold at the start of a Sortie, and spend it 1-for-1 to do the following;
 -  Remove one [[Risk]] from an ally. 
 - Give an ally [[Advantage]] to their next move, describing how you advise or support them. 
 - Have an ally appear somehow in a place they are needed. 
@@ -73,7 +76,7 @@ When news spread of the first [[Leviathans|leviathan]] sightings and subsequent 
 
 Isaac's career was that of any good officer: boring, mostly.  [[Tomoteloma]] did not  provoke many conflicts with the burgeoning [[imperial powers]], so his deployments were often just criss-crossing the archipelago to assist villages beset by pirates and/or leviathans, catch poachers, or as a show of force on a maritime border. He moved through his commands and ran carried out orders, ran readiness drills, mentored sailors, and kept his ships...shipshape. While his contemporaries chased accolades, political power,  and the admiralty, Wasomun was content to be where he knew he belonged, on the sea or among the clouds. Perhaps that's why the [[The First Revolution|first revolution]] took him by surprise.
 
-For all his strategic prowess and cunning in battle, Wasomun was in many ways sheltered by his rank. He believed in the chain of command, with the monarchy at its peak. In many ways it was all he'd ever known. So when he began receiving orders to deploy marines to areas of civil unrest he was taken aback. And when he read the after-action reports of their conduct among the civilians he swore an oath to protect, he was horrified. Many of his senior officers felt the same way.  When civil war was inevitable, they devised a daring plan. With a skeleton crew of like-minded enlisted, they hatched a plot to defect, stealing an airship for [[The Cause]]. Wasomun's commanding officer, [[Admiral Genevieve Awenema]] gave chase  in the Monarchy's flagship _[[Kingspear]]_.  But Wasomun's faster and more maneuverable ship was able to lose them in a hair raising escape through a mountain pass. The _Kingspear_ could not thread the needle, and [[Admiral Genevieve Awenema|Awanema]] perished in the ensuing crash.
+For all his strategic prowess and cunning in battle, Wasomun was in many ways sheltered by his rank. He believed in the chain of command, with the monarchy at its peak. In many ways it was all he'd ever known. So when he began receiving orders to deploy marines to areas of civil unrest he was taken aback. And when he read the after-action reports of their conduct among the civilians he swore an oath to protect, he was horrified. Many of his senior officers felt the same way.  When civil war was inevitable, they devised a daring plan. With a skeleton crew of like-minded enlisted, they hatched a plot to defect, stealing an airship for [[The Cause]]. Wasomun's commanding officer, [[Vice Admiral Genevieve Awenema]] gave chase  in the Monarchy's flagship _[[Kingspear]]_.  But Wasomun's faster and more maneuverable ship was able to lose them in a hair raising escape through a mountain pass. The _Kingspear_ could not thread the needle, and [[Vice Admiral Genevieve Awenema|Awanema]] perished in the ensuing crash.
 
 [[The First Revolution]] is where Wasomun became _Was'Utala_, the Warbird. He and his crew were the terror of the monarchy, launching sorties and surprise attacks at a relentless pace. Wasomun used his years of experience fighting pirates and guerillas to become one, doing everything he could to advance the cause of a free [[Tomoteloma]]. The skill of his crew was matched only by their infamy, and every loyalist longed to be the one to bring the traitors and mutineers to justice. This revulsion by the enemy however, did not necessarily translate into adoration by the rebel forces. They viewed Wasomun and his crew with suspicion, and sometimes outright hostility, seeing amongst their ranks double agents and oppressors. It fell on deaf ears, the Captain was an idealogue of the highest order, and as far as he was concerned he could go to the grave hated by both sides, so long as his home was free. 
 

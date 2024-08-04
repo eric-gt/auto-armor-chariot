@@ -4,13 +4,15 @@ tags:
   - Tomoteloma
   - tier-5
 ---
-
+The party's [[Carrier]]
+# About
 Type: Airship
 Class: Pegasus
-Tier: 5
+Manufacturer: [[Amaranton Republic]]
+[[Tier]]: 5
 Captain: [[Isaac Was'utala Wasomun ~ The Captain|Isaac Wasomun]]
 First Mate: [[Mister Jack]]
-CREW: +3
+[[CREW]]: +3
 
 
 Primary Weapon:  

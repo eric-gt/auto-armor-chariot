@@ -1,0 +1,6 @@
+---
+tags:
+  - place
+  - nation
+  - Tomoteloma
+---
