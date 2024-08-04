@@ -61,7 +61,7 @@
 - Is your character or their family indigenous? Are they colonizers or soldiers from one of the empires? Are they defectors? Were they foreign missionaries? Foreign sailors who were left behind by their crew or decided to abandon their crew? Foreign business people or plantation owners? Refugees from other war torn nations? Immigrants looking for a better life by working on the plantations or going to the university? [[University]] staff? Is your family one of the paniolo families from Amaranton who came to teach Tomotelomans how to cattle ranch? Is your character a foreign mercenary? Something else?
     indigenous
 
-12. What are your character’s views on the monarchy now? Were they happy the [[king]] was deposed? Angry? How do they feel about the [[monarchy]] and the Amaranton Republic being the main funders of the [[second revolution]]?
+12. What are your character’s views on the monarchy now? Were they happy the [[king]] was deposed? Angry? How do they feel about the [[The Tomoteloman Monarchy]] and the Amaranton Republic being the main funders of the [[second revolution]]?
      
 13.  Where does your character sit on the main central conflicts? Nature vs. Industry? Science vs. Supernatural? Imperial science vs. Indigenous knowledge? Social hierarchies vs. Self-determination?
     he was a much more hard line royalist/industrialist kind of person before the encounter with the leviathan. now he’s questioning himself

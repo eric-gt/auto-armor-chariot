@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isaac Was'utala Wasomun ~ The Captain.md",
+                "file": "The Tomoteloman Monarchy.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Isaac Was'utala Wasomun ~ The Captain.md",
+                "file": "The Tomoteloman Monarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Isaac Was'utala Wasomun ~ The Captain.md",
+                "file": "The Tomoteloman Monarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Isaac Was'utala Wasomun ~ The Captain.md"
+                "file": "The Tomoteloman Monarchy.md"
               }
             }
           },
@@ -221,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,13 +235,14 @@
   },
   "active": "f8bfd3ee8afdec48",
   "lastOpenFiles": [
-    "Character Questionnaire.md",
-    "Isaac Was'utala Wasomun ~ The Captain.md",
     "Session -0.md",
+    "one-use.md",
+    "The Tomoteloman Monarchy.md",
+    "Isaac Was'utala Wasomun ~ The Captain.md",
+    "Character Questionnaire.md",
     "Character Creation - 2024-08-03.md",
     "The Invisible Hand.md",
     "guided.md",
-    "one-use.md",
     "M.C. TBD.md",
     "Yuri Artorianova.md",
     "Ommatokoita Ancylos Lichtenberg.md",
