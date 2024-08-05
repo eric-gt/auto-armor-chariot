@@ -38,7 +38,7 @@ A library, filled with charts, operating manuals, and the Captain's personal col
 # PLAYER [[Moves|MOVES]]
 ## In Command 
 
-You are the [[Carrier]]’s captain, and naturally have command of its crew. While at the helm of the [[Carrier]], you may order the crew to perform moves on your behalf: unlike when other [[Playbooks]] use +[[Traits#CREW|CREW]], you may do this any number of times. Increase your Carrier’s +[[Traits#CREW|CREW]] by 1. When you do so, explain how the crew helps you do this thing—they share in the consequences of your move, good and bad. You are responsible for their lives. If things go bad rolling your [[Traits]], things go bad for you. If things go bad rolling +[[Traits#CREW|CREW]], you endanger everyone. Additionally, both [[Carrier]] and crew are part of your character as far as risks and perils are concerned, just like an [[Astir]] is an extension of its [[Channeler]]. To reflect the many minds and hands at work for you, you are [[Defenceless]] at 4 [[dangers]] while at the helm of your [[Carrier]], rather than 3. You go down with it, and it goes down with you
+You are the [[Carrier]]’s captain, and naturally have command of its crew. While at the helm of the [[Carrier]], you may order the crew to perform moves on your behalf: unlike when other [[Playbooks]] use [[Traits#CREW]], you may do this any number of times. Increase your Carrier’s [[Traits#CREW]] by 1. When you do so, explain how the crew helps you do this thing—they share in the consequences of your move, good and bad. You are responsible for their lives. If things go bad rolling your [[Traits]], things go bad for you. If things go bad rolling [[Traits#CREW]], you endanger everyone. Additionally, both [[Carrier]] and crew are part of your character as far as risks and perils are concerned, just like an [[Astir]] is an extension of its [[Channeler]]. To reflect the many minds and hands at work for you, you are [[Defenceless]] at 4 [[dangers]] while at the helm of your [[Carrier]], rather than 3. You go down with it, and it goes down with you
 
 ## Tactical Genius
 When you're supervising allies from afar during a Sortie, you can lever your tactical know-how into better positioning. Take 1+[[Traits#KNOW|KNOW]] hold at the start of a Sortie, and spend it 1-for-1 to do the following;
@@ -46,10 +46,23 @@ When you're supervising allies from afar during a Sortie, you can lever your tac
 - Give an ally [[Advantage]] to their next move, describing how you advise or support them. 
 - Have an ally appear somehow in a place they are needed. 
 ## Force Multiplier 
-You acquire something—a tool, ship upgrade, a caged malevolent sentience, etc—that allows the [[Carrier]] and it’s staff to operate far better than usual, but it has a downside. For each of the below drawbacks you give it, once per Sortie you may act with confidence. 
+You acquire something—a tool, ship upgrade, a caged malevolent sentience, etc—that allows the [[Carrier]] and it’s staff to operate far better than usual, but it has a downside. For each of the below drawbacks you give it, once per [[Sortie]] you may act with [[confidence]]. 
 - It whispers in your ear—change one of your [[Hooks]] to represent its demands. 
 - It’s [[fragile]] and needs protecting. It grants no benefit while damaged or destroyed.
 - It is physically taxing or requires upkeep of some kind: gain a [[Burden]]. If you gain this [[move]] at the same time as you would gain a burden from another source, you take this one instead.
+
+# Hooks
+- I blame myself for my old commander’s death while I was defecting.
+- I communed with a [[leviathan]] and it left me changed.
+- I betrayed [[The Tomoteloman Monarchy]] which is now funding this [[The Second Revolution|revolution]], because I believe that the people of [[Tomoteloma]] deserve the right of self-determination.
+
+# Gravity Clocks
+1. Not Specified 0/6
+2. Not Specified 0/6
+3. Not Specified 0/6
+### Gravity Clock Trigger
+
+Whenever anybody rolls a 6- with [[Traits#CREW|CREW]], mark a gravity clock with someone who placed their trust in you.
 # Bio
 ### Name: Isaac Wasomun
 - Gained the moniker _Was'utala_ (warbird) during his career as a Captain. He is ambivalent about it, and if you call him that  (or anything other than "Captain") to his face you'd better outrank him, or be on the other end of a big gun.

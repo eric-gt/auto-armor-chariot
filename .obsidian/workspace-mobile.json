@@ -1,20 +1,21 @@
 {
   "main": {
-    "id": "0f4a7c174091a553",
+    "id": "85840bbc67e3a5e9",
     "type": "split",
     "children": [
       {
-        "id": "c051e5c8eb6b8915",
+        "id": "535f08f4d49426d8",
         "type": "tabs",
         "children": [
           {
-            "id": "f41ecf2816cd9966",
+            "id": "dd81b3a0ef4216fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Questionnaire.md",
+                "file": "The Invisible Hand.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -25,11 +26,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "95d37b18ed0a0fa1",
+    "id": "53be57e74a3e7faa",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9ae138ecbd8ea234",
+        "id": "78fd65eeb0da53bb",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +40,7 @@
         }
       },
       {
-        "id": "95d2022b1531ed5a",
+        "id": "fd5891088645848c",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +55,7 @@
         }
       },
       {
-        "id": "f3021938a58bcea3",
+        "id": "e125645a18979287",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +66,7 @@
         }
       },
       {
-        "id": "a4d5623a1c168b6b",
+        "id": "12ebd84c6ab4801d",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +77,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "7b2ce9d37541b596",
+    "id": "0fa66ff967d03db1",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9794e9027c3ff059",
+        "id": "95414bd99ed04134",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Character Questionnaire.md",
+            "file": "The Invisible Hand.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,29 +98,37 @@
         }
       },
       {
-        "id": "358a150df6732bd6",
+        "id": "9e0f9754a80d3591",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Character Questionnaire.md",
+            "file": "The Invisible Hand.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "e8db3455f827d0aa",
+        "id": "57e6f554c62579a0",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Character Questionnaire.md"
+            "file": "The Invisible Hand.md"
           }
+        }
+      },
+      {
+        "id": "11191e684a32565b",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -131,11 +140,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f41ecf2816cd9966",
+  "active": "95414bd99ed04134",
   "lastOpenFiles": [
-    "Session -1.md",
+    "Isaac Was'utala Wasomun ~ The Captain.md",
+    "guided.md",
+    "Traits.md",
+    "Character Creation - 2024-08-03.md",
+    "The Tomoteloman Monarchy.md",
+    "The First Revolution.md",
+    "Channeler.md",
+    "README.md",
+    "Vice Admiral Genevieve Awenema.md",
+    "Vulture Collective.md",
+    "M.C. TBD.md",
     "Character Questionnaire.md",
-    "/Character Questionnaire.md",
-    "README.md"
+    "The Invisible Hand.md",
+    "Tomoteloma.md",
+    "Session -0.md",
+    "The Captain.md",
+    "Yuri Artorianova.md",
+    "Ommatokoita Ancylos Lichtenberg.md"
   ]
 }

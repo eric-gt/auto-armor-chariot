@@ -35,10 +35,14 @@ Secondary Weapons
 
 
 # Crew
-Ship's Doctor: [[Shitass McMedical Student]]
-Ship's Engineer: [[Ex-Doctor, Best Engineer]]
+[[Ship's Doctor]]: [[Shitass McMedical Student]]
+[[Ship's Engineer]]: [[Ex-Doctor, Best Engineer]]
 Demon Engineer: [[M.C. TBD]] and [[Ommatokoita Ancylos Lichtenberg|Lichtenberg]]'s 
 Ensign Channelers [[April Johnson]] & [[May Johnson]]
-Ship's Navigator
-Helmsman
-Communications
+[[Ship's Navigator]]
+[[Helmsman]]
+[[Communications]]
+[[Weapons]]
+[[Marines]]
+[[Ship’s cook]]
+[[Quartermaster]]
