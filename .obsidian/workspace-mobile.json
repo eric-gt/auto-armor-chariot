@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Invisible Hand.md",
+                "file": "Leo Socorrin.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c00a7dab8256e194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mister Jack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "The Invisible Hand.md",
+            "file": "Mister Jack.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "The Invisible Hand.md",
+            "file": "Mister Jack.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "The Invisible Hand.md"
+            "file": "Mister Jack.md"
           }
         }
       },
@@ -140,8 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95414bd99ed04134",
+  "active": "c00a7dab8256e194",
   "lastOpenFiles": [
+    "The Invisible Hand.md",
+    "Mister Jack.md",
+    "Crew Dossiers.md",
+    "Leo Socorrin.md",
     "Isaac Was'utala Wasomun ~ The Captain.md",
     "guided.md",
     "Traits.md",
@@ -154,7 +172,6 @@
     "Vulture Collective.md",
     "M.C. TBD.md",
     "Character Questionnaire.md",
-    "The Invisible Hand.md",
     "Tomoteloma.md",
     "Session -0.md",
     "The Captain.md",
