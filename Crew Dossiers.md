@@ -4,4 +4,7 @@ Compiled for [[Isaac Was'utala Wasomun ~ The Captain|Captain Isaac Wasomun]]
 
 First Mate: [[Mister Jack]]
 Ship’s Doctor: [[Leo Socorrin]]
-Chief Engineer: 
+Chief Engineer: [[Holly “Doc” M’Benga]]
+Quartermaster: [[John Merrigold]]
+Boatswain: [[Kala Courvoisier]]
+Chief of Security: [[Jan Utala]]
