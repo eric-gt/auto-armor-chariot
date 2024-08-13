@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Crew Dossiers.md",
+            "file": "Leo Socorrin.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Crew Dossiers.md",
+            "file": "Leo Socorrin.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Crew Dossiers.md"
+            "file": "Leo Socorrin.md"
           }
         }
       },
@@ -154,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c00a7dab8256e194",
+  "active": "11191e684a32565b",
   "lastOpenFiles": [
     "Rokava Smee.md",
     "/Rokava Smee.md",
