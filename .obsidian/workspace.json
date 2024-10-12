@@ -6,6 +6,7 @@
       {
         "id": "8fc6999269f9b263",
         "type": "tabs",
+        "dimension": 42.7797833935018,
         "children": [
           {
             "id": "c7d7966cddff1927",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpt. Esparanza.md",
+                "file": "2024-10-12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -25,6 +26,7 @@
       {
         "id": "3f1d948b58ca5f03",
         "type": "tabs",
+        "dimension": 57.2202166064982,
         "children": [
           {
             "id": "cfd296161c483dab",
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpt. Esparanza.md",
+                "file": "2024-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cpt. Esparanza.md",
+                "file": "2024-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cpt. Esparanza.md"
+                "file": "2024-10-12.md"
               }
             }
           },
@@ -177,13 +179,16 @@
   },
   "active": "c7d7966cddff1927",
   "lastOpenFiles": [
-    "The Wandering Crow.md",
-    "Cpt. Esparanza.md",
     "Isaac Was'utala Wasomun ~ The Captain.md",
-    "cum.md",
-    "Ommatokoita Ancylos Lichtenberg.md",
     "2024-10-12.md",
+    "The Dogged Day.md",
     "Andi.md",
+    "Alfonzo Alcazar.md",
+    "Ommatokoita Ancylos Lichtenberg.md",
+    "Yuri Artorianova.md",
+    "Cpt. Esparanza.md",
+    "The Wandering Crow.md",
+    "cum.md",
     "Crew Dossiers.md",
     "2024-08-17.md",
     "Untitled.md",
@@ -199,9 +204,6 @@
     "SENSE.md",
     "KNOW.md",
     "CLASH.md",
-    "DEFY.md",
-    "Channeler.md",
-    "The Invisible Hand.md",
-    "Session-1 2024-07-20.md"
+    "DEFY.md"
   ]
 }

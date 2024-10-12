@@ -6,7 +6,13 @@ tags:
 ---
 Played by: [[Eric]]
 Playbook: [[The Captain]] 
-# STATS
+
+# In Game
+## Experience: 1
+
+## Risks:
+Bleeding
+## STATS
 ## [[Traits#DEFY|DEFY]]: 0
 ## [[Traits#SENSE|SENSE]]: 1
 ## [[Traits#TALK|TALK]]: 1
@@ -17,11 +23,11 @@ The Captain LOOKS upright
 The Captain WEARS an officer's coat
 The Captain LEADS with: tested experience
 
-# GEAR
+## GEAR
 - Gilded Sidearm I ([[ranged]], [[versatile]])
 - Captain's uniform from the era of [[The Tomoteloman Monarchy|The Monarchy]], but with all sigils stripped and replaced with iconography of [[The Cause]]
 
-# Crew/[[Carrier]] Bonuses
+## Crew/[[Carrier]] Bonuses
 ### Cloaking Rituals
 Enchantments that can hide the carrier from sight
 ### Marine Infantry
