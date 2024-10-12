@@ -9,6 +9,6 @@ Character Sheets:
 [[Isaac Was'utala Wasomun ~ The Captain]]
 [[Yuri Artorianova]]
 [[Ommatokoita Ancylos Lichtenberg]]
-[[M.C. TBD]]
+[[Andi]]
 
 Carrier: [[The Invisible Hand]]
