@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Questionnaire.md",
+                "file": "2024-10-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Character Questionnaire.md",
+            "file": "2024-10-12.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Character Questionnaire.md",
+            "file": "2024-10-12.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Character Questionnaire.md"
+            "file": "2024-10-12.md"
           }
         }
       }
@@ -133,6 +133,7 @@
   },
   "active": "f41ecf2816cd9966",
   "lastOpenFiles": [
+    "Character Questionnaire.md",
     "The Tomoteloman Monarchy.md",
     "Character Creation - 2024-08-03.md",
     "Alfonzo Alcazar.md",
@@ -157,7 +158,6 @@
     "The Dogged Day.md",
     "guided.md",
     "Untitled.md",
-    "2024-08-17.md",
-    "The Wandering Crow.md"
+    "2024-08-17.md"
   ]
 }
