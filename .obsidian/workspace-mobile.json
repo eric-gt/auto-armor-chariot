@@ -1,38 +1,54 @@
 {
   "main": {
-    "id": "0f4a7c174091a553",
+    "id": "85840bbc67e3a5e9",
     "type": "split",
     "children": [
       {
-        "id": "c051e5c8eb6b8915",
+        "id": "535f08f4d49426d8",
         "type": "tabs",
         "children": [
           {
-            "id": "f41ecf2816cd9966",
+            "id": "dd81b3a0ef4216fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-12.md",
+                "file": "Leo Socorrin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-12"
+              "title": "Leo Socorrin"
+            }
+          },
+          {
+            "id": "c00a7dab8256e194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crew Dossiers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crew Dossiers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "95d37b18ed0a0fa1",
+    "id": "53be57e74a3e7faa",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9ae138ecbd8ea234",
+        "id": "78fd65eeb0da53bb",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +60,7 @@
         }
       },
       {
-        "id": "95d2022b1531ed5a",
+        "id": "fd5891088645848c",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +77,7 @@
         }
       },
       {
-        "id": "f3021938a58bcea3",
+        "id": "e125645a18979287",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -74,7 +90,7 @@
         }
       },
       {
-        "id": "a4d5623a1c168b6b",
+        "id": "12ebd84c6ab4801d",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -87,16 +103,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "7b2ce9d37541b596",
+    "id": "0fa66ff967d03db1",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9794e9027c3ff059",
+        "id": "95414bd99ed04134",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-10-12.md",
+            "file": "Leo Socorrin.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,12 +126,12 @@
         }
       },
       {
-        "id": "358a150df6732bd6",
+        "id": "9e0f9754a80d3591",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-10-12.md",
+            "file": "Leo Socorrin.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -124,19 +140,29 @@
         }
       },
       {
-        "id": "e8db3455f827d0aa",
+        "id": "57e6f554c62579a0",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-10-12.md"
+            "file": "Leo Socorrin.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "11191e684a32565b",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,33 +174,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f41ecf2816cd9966",
+  "active": "11191e684a32565b",
   "lastOpenFiles": [
-    "Character Questionnaire.md",
-    "The Tomoteloman Monarchy.md",
-    "Character Creation - 2024-08-03.md",
-    "Alfonzo Alcazar.md",
-    "Tomoteloma.md",
-    "Jan Utala.md",
-    "The Captain.md",
-    "Kala Courvoisier.md",
-    "Vice Admiral Genevieve Awenema.md",
-    "2024-10-12.md",
+    "2024-08-17.md",
+    "Untitled.md",
+    "/Untitled.md",
+    "/2024-08-17.md",
     "Rokava Smee.md",
-    "Vulture Collective.md",
-    "cum.md",
-    "The Invisible Hand.md",
+    "/Rokava Smee.md",
+    "/Crew Dossiers.md",
+    "Jan Utala.md",
     "Crew Dossiers.md",
     "Holly “Doc” M’Benga.md",
+    "Kala Courvoisier.md",
+    "John Merrigold.md",
+    "Mister Jack.md",
+    "The Invisible Hand.md",
     "Leo Socorrin.md",
-    "Channeler.md",
     "Isaac Was'utala Wasomun ~ The Captain.md",
-    "Yuri Artorianova.md",
-    "Cpt. Esparanza.md",
-    "Andi.md",
-    "The Dogged Day.md",
     "guided.md",
-    "Untitled.md",
-    "2024-08-17.md"
+    "Traits.md",
+    "Character Creation - 2024-08-03.md",
+    "The Tomoteloman Monarchy.md",
+    "The First Revolution.md",
+    "Channeler.md",
+    "README.md",
+    "Vice Admiral Genevieve Awenema.md",
+    "Vulture Collective.md",
+    "M.C. TBD.md"
   ]
 }

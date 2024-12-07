@@ -1,1 +1,0 @@
-_We cut away to the Reaving Blade, and we see a figure in a long coat and a large hat, watching the Wandering Crow as the warning shots explode off its front bow. He turns to his men: "Take the bridge...just in case". _
