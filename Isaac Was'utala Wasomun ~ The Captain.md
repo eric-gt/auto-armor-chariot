@@ -8,7 +8,7 @@ Played by: [[Eric]]
 Playbook: [[The Captain]] 
 
 # In Game
-## Experience: 1
+## Spotlight: 1
 
 ## Risks:
 Bleeding
@@ -52,7 +52,7 @@ When you're supervising allies from afar during a Sortie, you can lever your tac
 - Give an ally [[Advantage]] to their next move, describing how you advise or support them. 
 - Have an ally appear somehow in a place they are needed. 
 ## Force Multiplier 
-You acquire something—a tool, ship upgrade, a caged malevolent sentience, etc—that allows the [[Carrier]] and it’s staff to operate far better than usual, but it has a downside. For each of the below drawbacks you give it, once per [[Sortie]] you may act with [[confidence]]. 
+You acquire something—a tool, ship upgrade, a caged malevolent sentience, etc—that allows the [[Carrier]] and its staff to operate far better than usual, but it has a downside. For each of the below drawbacks you give it, once per [[Sortie]] you may act with [[confidence]]. 
 - It whispers in your ear—change one of your [[Hooks]] to represent its demands. 
 - It’s [[fragile]] and needs protecting. It grants no benefit while damaged or destroyed.
 - It is physically taxing or requires upkeep of some kind: gain a [[Burden]]. If you gain this [[move]] at the same time as you would gain a burden from another source, you take this one instead.

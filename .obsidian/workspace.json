@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-12.md",
+                "file": "Cpt. Esperanza.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-12.md",
+                "file": "Cpt. Esperanza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-12.md",
+                "file": "Cpt. Esperanza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-12.md"
+                "file": "Cpt. Esperanza.md"
               }
             }
           },
@@ -179,14 +179,15 @@
   },
   "active": "c7d7966cddff1927",
   "lastOpenFiles": [
-    "Isaac Was'utala Wasomun ~ The Captain.md",
     "2024-10-12.md",
+    "The Reaving Blade.md",
+    "Isaac Was'utala Wasomun ~ The Captain.md",
     "The Dogged Day.md",
     "Andi.md",
     "Alfonzo Alcazar.md",
     "Ommatokoita Ancylos Lichtenberg.md",
     "Yuri Artorianova.md",
-    "Cpt. Esparanza.md",
+    "Cpt. Esperanza.md",
     "The Wandering Crow.md",
     "cum.md",
     "Crew Dossiers.md",
@@ -203,7 +204,6 @@
     "TALK.md",
     "SENSE.md",
     "KNOW.md",
-    "CLASH.md",
-    "DEFY.md"
+    "CLASH.md"
   ]
 }
