@@ -6,13 +6,12 @@ tags:
 ---
 Played by: [[Eric]]
 Playbook: [[The Captain]] 
-
 # In Game
 ## Spotlight: 1
 
 ## Risks:
 Bleeding
-## STATS
+# STATS
 ## [[Traits#DEFY|DEFY]]: 0
 ## [[Traits#SENSE|SENSE]]: 1
 ## [[Traits#TALK|TALK]]: 1
@@ -23,11 +22,11 @@ The Captain LOOKS upright
 The Captain WEARS an officer's coat
 The Captain LEADS with: tested experience
 
-## GEAR
+# GEAR
 - Gilded Sidearm I ([[ranged]], [[versatile]])
 - Captain's uniform from the era of [[The Tomoteloman Monarchy|The Monarchy]], but with all sigils stripped and replaced with iconography of [[The Cause]]
 
-## Crew/[[Carrier]] Bonuses
+# Crew/[[Carrier]] Bonuses
 ### Cloaking Rituals
 Enchantments that can hide the carrier from sight
 ### Marine Infantry
@@ -83,9 +82,9 @@ Aged but Distinguished. Salt and Pepper beard and medium length black-but-greyin
 # RELATIONSHIPS
 [[Ommatokoita Ancylos Lichtenberg|Dr. Lichtenberg]]: The PC he respects the most. No complaints about character, but the fact that she's a scientist and leviathan-touched strikes him as a liability for a senior officer of a combat airship.
 
-[[Yuri Artorianova]]: Scum-sucking, lily-livered landlubber trying to save face and grab power. A disgrace to the mantle of warrior. I fought to have him removed from the roster but was overruled because of how he can lend legitimacy to the cover mission. Understands he was a celebrity of some kind before becoming a war-hero [[cum]] politician, but he doesn't really care about Herlock Sholmes. He prefers to read poetry and history.
+[[Yuri Artorianova]]: Scum-sucking, lily-livered landlubber trying to save face and grab power. A disgrace to the mantle of warrior. I fought to have him removed from the roster but was overruled because of how he can lend legitimacy to the cover mission. Understands he was a celebrity of some kind before becoming a war-hero cum politician, but he doesn't really care about Herlock Sholmes. He prefers to read poetry and history.
 
-[[Andi]]: Seems like a bright young greenhorn, Nothing I haven't seen before. I'll make a fine sailor/charioteer out of him, whether he likes it or not.
+[[M.C. TBD]]: Seems like a bright young greenhorn, Nothing I haven't seen before. I'll make a fine sailor/charioteer out of him, whether he likes it or not.
 
 [[Mister Jack]]: 
 # HISTORY

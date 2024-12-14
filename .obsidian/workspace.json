@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpt. Esperanza.md",
+                "file": "2024-10-12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpt. Esperanza.md",
+                "file": "2024-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cpt. Esperanza.md",
+                "file": "2024-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cpt. Esperanza.md"
+                "file": "2024-10-12.md"
               }
             }
           },
@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,15 +178,17 @@
   },
   "active": "c7d7966cddff1927",
   "lastOpenFiles": [
+    "Cpt. Esperanza.md",
+    "Isaac Was'utala Wasomun ~ The Captain.md",
+    "conflict-files-obsidian-git.md",
+    "M.C. TBD.md",
     "2024-10-12.md",
     "The Reaving Blade.md",
-    "Isaac Was'utala Wasomun ~ The Captain.md",
     "The Dogged Day.md",
     "Andi.md",
     "Alfonzo Alcazar.md",
     "Ommatokoita Ancylos Lichtenberg.md",
     "Yuri Artorianova.md",
-    "Cpt. Esperanza.md",
     "The Wandering Crow.md",
     "cum.md",
     "Crew Dossiers.md",
@@ -202,8 +203,6 @@
     "Mister Jack.md",
     "Traits.md",
     "TALK.md",
-    "SENSE.md",
-    "KNOW.md",
-    "CLASH.md"
+    "SENSE.md"
   ]
 }

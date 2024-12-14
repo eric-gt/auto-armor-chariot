@@ -1,1 +1,0 @@
-a ferry/supply/courier ship servicing the island of [[Nokama]], home of the former [[Winter Palace]] of the [[The Tomoteloman Monarchy]]
