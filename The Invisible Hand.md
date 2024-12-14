@@ -37,7 +37,7 @@ Secondary Weapons
 # Crew
 [[Ship's Doctor]]: [[Leo Socorrin]]
 [[Ship's Engineer]]: [[Ex-Doctor, Best Engineer]]
-Demon Engineer: [[M.C. TBD]] and [[Ommatokoita Ancylos Lichtenberg|Lichtenberg]]'s 
+Demon Engineer: [[Andi]] and [[Ommatokoita Ancylos Lichtenberg|Lichtenberg]]'s 
 Ensign Channelers [[April Johnson]] & [[May Johnson]]
 [[Ship's Navigator]]
 [[Helmsman]]
