@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3f1d948b58ca5f03",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Isaac Was'utala Wasomun ~ The Captain.md",
+                "file": "2024-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Isaac Was'utala Wasomun ~ The Captain.md",
+                "file": "2024-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Isaac Was'utala Wasomun ~ The Captain.md"
+                "file": "2024-12-14.md"
               }
             }
           },
@@ -190,15 +189,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e1e1b95e6364cc2",
+  "active": "c7d7966cddff1927",
   "lastOpenFiles": [
-    "cum.md",
     "Isaac Was'utala Wasomun ~ The Captain.md",
+    "2024-12-14.md",
+    "cum.md",
     "2024-10-12.md",
     "The Wandering Crow.md",
     "Cpt. Esperanza.md",
     "Ommatokoita Ancylos Lichtenberg.md",
-    "2024-12-14.md",
     "Andi.md",
     "Andi.md",
     "conflict-files-obsidian-git.md",

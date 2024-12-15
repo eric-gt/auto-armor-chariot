@@ -10,7 +10,6 @@ Playbook: [[The Captain]]
 ## Spotlight: 1
 
 ## Risks:
-Bleeding
 # STATS
 ## [[Traits#DEFY|DEFY]]: 0
 ## [[Traits#SENSE|SENSE]]: 1
