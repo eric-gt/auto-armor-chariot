@@ -7,9 +7,12 @@ tags:
 Played by: [[Eric]]
 Playbook: [[The Captain]] 
 # In Game
+## Experience: 3
 ## Spotlight: 1
 
-## Risks:
+## Risks: 
+## Perils: 
+[[Limping]]
 # STATS
 ## [[Traits#DEFY|DEFY]]: 0
 ## [[Traits#SENSE|SENSE]]: 1

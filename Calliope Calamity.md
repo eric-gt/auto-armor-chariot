@@ -1,0 +1,1 @@
+Pirate aboard the [[The Reaving Blade]], [[Channeler]] and pilot of [[Gunpowder Cassanova]]]
