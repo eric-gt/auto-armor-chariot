@@ -7,8 +7,7 @@ tags:
 Played by: [[Eric]]
 Playbook: [[The Captain]] 
 # In Game
-## Experience: 3
-## Spotlight: 1
+## Spotlight: 3
 
 ## Risks: 
 ## Perils: 
