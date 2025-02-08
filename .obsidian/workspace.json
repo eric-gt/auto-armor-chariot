@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Isaac Was'utala Wasomun ~ The Captain.md",
+                "file": "2025-02-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Isaac Was'utala Wasomun ~ The Captain"
+              "title": "Backlinks for 2025-02-08"
             }
           },
           {
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Isaac Was'utala Wasomun ~ The Captain.md",
+                "file": "2025-02-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Isaac Was'utala Wasomun ~ The Captain"
+              "title": "Outgoing links from 2025-02-08"
             }
           },
           {
@@ -163,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Isaac Was'utala Wasomun ~ The Captain.md"
+                "file": "2025-02-08.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Isaac Was'utala Wasomun ~ The Captain"
+              "title": "Outline of 2025-02-08"
             }
           },
           {
@@ -196,10 +196,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfd296161c483dab",
+  "active": "c7d7966cddff1927",
   "lastOpenFiles": [
-    "2025-02-08.md",
     "Isaac Was'utala Wasomun ~ The Captain.md",
+    "2025-02-08.md",
     "2024-12-14.md",
     "Calliope Calamity.md",
     "Gunpowder Cassanova.md",
