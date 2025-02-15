@@ -55,6 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "The Invisible Hand.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Invisible Hand"
+            }
+          },
+          {
+            "id": "fadf59564917d016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2025-02-15.md",
                 "mode": "source",
                 "source": false,
@@ -74,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,34 +250,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed6f6d4253335237",
+  "active": "fadf59564917d016",
   "lastOpenFiles": [
+    "Isaac Was'utala Wasomun ~ The Captain.md",
+    "2025-02-15.md",
+    "Kai Lete Lawa.md",
+    "The Captain.md",
+    "The Still Pond Cafe.md",
+    "The Invisible Hand.md",
+    "dangerous.md",
+    "impact.md",
+    "setup.md",
+    "mounted.md",
+    "second revolution.md",
+    "ranged.md",
+    "versatile.md",
+    "defensive.md",
+    "decisive.md",
     "2024-12-14.md",
     "2025-02-08.md",
-    "2025-02-15.md",
     "2024-10-12.md",
     "the revolution.md",
     "The Second Revolution.md",
     "Character Questionnaire.md",
-    "second revolution.md",
     "Alfonzo Alcazar.md",
     "2024-08-17.md",
     "Demos.md",
-    "Isaac Was'utala Wasomun ~ The Captain.md",
     "Calliope Calamity.md",
     "Gunpowder Cassanova.md",
-    "Deimos.md",
-    "Untitled.canvas",
-    "cum.md",
-    "The Wandering Crow.md",
-    "Cpt. Esperanza.md",
-    "Ommatokoita Ancylos Lichtenberg.md",
-    "Andi.md",
-    "Andi.md",
-    "conflict-files-obsidian-git.md",
-    "The Reaving Blade.md",
-    "The Dogged Day.md",
-    "Yuri Artorianova.md",
-    "Crew Dossiers.md"
+    "Untitled.canvas"
   ]
 }
