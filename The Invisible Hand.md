@@ -12,7 +12,7 @@ Manufacturer: [[The Amaranton Republic]]
 [[Tier]]: 5
 Captain: [[Isaac Was'utala Wasomun ~ The Captain|Isaac Wasomun]]
 First Mate: [[Mister Jack]]
-[[CREW]]: +3
+[[Traits#CREW|CREW]]: +3
 
 
 Primary Weapon:  

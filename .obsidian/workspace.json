@@ -256,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Isaac Was'utala Wasomun ~ The Captain.md",
+                "file": "2025-02-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Isaac Was'utala Wasomun ~ The Captain"
+              "title": "Outline of 2025-02-15"
             }
           },
           {
@@ -276,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -292,10 +292,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7d7966cddff1927",
+  "active": "2e1e1b95e6364cc2",
   "lastOpenFiles": [
-    "Leviathans.md",
+    "The Invisible Hand.md",
+    "Tier.md",
     "Isaac Was'utala Wasomun ~ The Captain.md",
+    "Leviathans.md",
     "2025-02-15.md",
     "Kai Lete Lawa.md",
     "Alliance High Command.md",
@@ -305,7 +307,6 @@
     "2025-02-08.md",
     "Character Questionnaire.md",
     "The Rogue Wave.md",
-    "The Invisible Hand.md",
     "ruin.md",
     "bane.md",
     "distinct.md",
@@ -319,7 +320,6 @@
     "defensive.md",
     "decisive.md",
     "dangerous.md",
-    "The Captain.md",
     "Untitled.canvas"
   ]
 }
