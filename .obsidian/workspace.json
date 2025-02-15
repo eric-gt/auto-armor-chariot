@@ -12,24 +12,10 @@
             "id": "c7d7966cddff1927",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-02-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-02-08"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -67,12 +53,24 @@
             "id": "ed6f6d4253335237",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "2025-02-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "2025-02-15"
             }
           }
         ],
@@ -230,15 +228,22 @@
   },
   "active": "ed6f6d4253335237",
   "lastOpenFiles": [
-    "2025-02-08.md",
-    "Isaac Was'utala Wasomun ~ The Captain.md",
     "2024-12-14.md",
+    "2025-02-08.md",
+    "2025-02-15.md",
+    "2024-10-12.md",
+    "the revolution.md",
+    "The Second Revolution.md",
+    "Character Questionnaire.md",
+    "second revolution.md",
+    "Alfonzo Alcazar.md",
+    "2024-08-17.md",
+    "Demos.md",
+    "Isaac Was'utala Wasomun ~ The Captain.md",
     "Calliope Calamity.md",
     "Gunpowder Cassanova.md",
     "Deimos.md",
-    "Demos.md",
     "Untitled.canvas",
-    "2024-10-12.md",
     "cum.md",
     "The Wandering Crow.md",
     "Cpt. Esperanza.md",
@@ -248,14 +253,7 @@
     "conflict-files-obsidian-git.md",
     "The Reaving Blade.md",
     "The Dogged Day.md",
-    "Alfonzo Alcazar.md",
     "Yuri Artorianova.md",
-    "Crew Dossiers.md",
-    "2024-08-17.md",
-    "Untitled.md",
-    "Rokava Smee.md",
-    "Jan Utala.md",
-    "Kala Courvoisier.md",
-    "Holly “Doc” M’Benga.md"
+    "Crew Dossiers.md"
   ]
 }

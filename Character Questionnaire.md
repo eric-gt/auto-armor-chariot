@@ -41,18 +41,18 @@
      No chariot
 2. Is your character old enough to remember a time before [[Leviathans|leviathans]]? Before magic? Before electricity or steam power? What are your character's opinions on these rapid societal changes?
     He’s in his late 50s, and has seen so much come and go in that time. He knows the future is coming and most of it he won’t be h there to see, but he can do something now to ensure future generations can make their own choices about where this island nation goes
-3. How much of your character’s life was before [[the revolution]]? What was their life like before the fighting began? What was their life before they joined the fight?
-    Most of his life was before the revolution. When the revolution arrived he made a choice about which side to be on and he hasn’t looked back
+3. How much of your character’s life was before [[The Second Revolution|the revolution]]? What was their life like before the fighting began? What was their life before they joined the fight?
+    Most of his life was before [[The Second Revolution|the revolution]]. When the revolution arrived he made a choice about which side to be on and he hasn’t looked back
 4. Why is your character in the fight against the three [[imperial powers]]? Is it personal? Political idealism? Something else? 
     It’s definitely a sense of idealism. His time in the navy showed him the horrors of empire/the monarchy and he wants to atone
 5. What is your character’s ideal vision for the nation? What do you want the nation to look like if the revolution is successful?
     [[Tomoteloma]] should be a free, independent nation. Its destiny should be forged by the Tomoteoloman people
-6. Did your character fight in the [[first revolution]]? Why or why not? What are your character’s opinions on the first revolution? Its ideals? How it ended? 
+6. Did your character fight in [[The First Revolution|the first revolution]]? Why or why not? What are your character’s opinions on the first revolution? Its ideals? How it ended? 
     He sees himself as a servant of [[Tomoteloma]]. The first revolution ended in success and he was content to step into the background, seeing himself as too old to be someone choosing the destiny of the island. when [[Annexation Day]] came he was devastated
 7. Why did your character join the second revolution? Why would they join a revolution that already failed once?
      because he believes in the cause, and thinks it’s worth dying for
-8. What was your character’s life like before the revolution? Were they a noble? Were they a peasant? A merchant? What were their opinions on the nobility? On the [[Amaranton Republic|Amaranton Republic’s]] influence?
-     he was an officer for the [[royal navy]], with all the trappings. during the revolution he and his ship defected to the rebels and fought for their cause. he doesn’t hate the [[royal family]], but he’s not going to back them as the leaders should the second revolution succeed 
+8. What was your character’s life like before [[The Second Revolution|the revolution]]? Were they a noble? Were they a peasant? A merchant? What were their opinions on the nobility? On the [[Amaranton Republic|Amaranton Republic’s]] influence?
+     he was an officer for the [[royal navy]], with all the trappings. during [[The Second Revolution|the revolution]] he and his ship defected to the rebels and fought for their cause. he doesn’t hate the [[royal family]], but he’s not going to back them as the leaders should the second revolution succeed 
 9. Was your character born in Tomoteloma? Did they move there from somewhere else? How do they feel about living there? Do they wish they lived somewhere else?
     Tomoteloma is his birthplace, but the sky and sea are his home
 10. Where is your character’s family from? If they aren't indigenous, why did your character or their family move there?
