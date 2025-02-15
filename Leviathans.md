@@ -1,0 +1,1 @@
+Giant monsters that come from the sea. The first appeared 30 years ago, though sailors have had stories of sea monsters for thousands of years. Many are amphibious and come ashore to attack human settlements. Most stand around 20 to 30 feet tall, but the largest recorded was over 150 feet tall.

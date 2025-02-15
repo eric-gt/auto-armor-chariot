@@ -1,3 +1,8 @@
+---
+aliases:
+  - Andi
+---
+
 Played By: [[Molly]]
 Playbook: [[The Imposter]]
 Pronouns: he/she/they

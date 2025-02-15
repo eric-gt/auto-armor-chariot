@@ -51,7 +51,7 @@
     He sees himself as a servant of [[Tomoteloma]]. The first revolution ended in success and he was content to step into the background, seeing himself as too old to be someone choosing the destiny of the island. when [[Annexation Day]] came he was devastated
 7. Why did your character join the second revolution? Why would they join a revolution that already failed once?
      because he believes in the cause, and thinks it’s worth dying for
-8. What was your character’s life like before [[The Second Revolution|the revolution]]? Were they a noble? Were they a peasant? A merchant? What were their opinions on the nobility? On the [[Amaranton Republic|Amaranton Republic’s]] influence?
+8. What was your character’s life like before [[The Second Revolution|the revolution]]? Were they a noble? Were they a peasant? A merchant? What were their opinions on the nobility? On the [[The Amaranton Republic|Amaranton Republic’s]] influence?
      he was an officer for the [[royal navy]], with all the trappings. during [[The Second Revolution|the revolution]] he and his ship defected to the rebels and fought for their cause. he doesn’t hate the [[royal family]], but he’s not going to back them as the leaders should the second revolution succeed 
 9. Was your character born in Tomoteloma? Did they move there from somewhere else? How do they feel about living there? Do they wish they lived somewhere else?
     Tomoteloma is his birthplace, but the sky and sea are his home

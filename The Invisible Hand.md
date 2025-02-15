@@ -8,7 +8,7 @@ The party's [[Carrier]]
 # About
 Type: Airship
 Class: Pegasus
-Manufacturer: [[Amaranton Republic]]
+Manufacturer: [[The Amaranton Republic]]
 [[Tier]]: 5
 Captain: [[Isaac Was'utala Wasomun ~ The Captain|Isaac Wasomun]]
 First Mate: [[Mister Jack]]
@@ -37,7 +37,7 @@ Secondary Weapons
 # Crew
 [[Ship's Doctor]]: [[Leo Socorrin]]
 [[Ship's Engineer]]: [[Ex-Doctor, Best Engineer]]
-Demon Engineer: [[Andi]] and [[Ommatokoita Ancylos Lichtenberg|Lichtenberg]]'s 
+Demon Engineer: [[Jesse Anderson]] and [[Ommatokoita Ancylos Lichtenberg|Lichtenberg]]'s 
 Ensign Channelers [[April Johnson]] & [[May Johnson]]
 [[Ship's Navigator]]
 [[Helmsman]]

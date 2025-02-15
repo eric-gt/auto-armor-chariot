@@ -12,23 +12,6 @@
             "id": "c7d7966cddff1927",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3f1d948b58ca5f03",
-        "type": "tabs",
-        "dimension": 57.2202166064982,
-        "children": [
-          {
-            "id": "cfd296161c483dab",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Isaac Was'utala Wasomun ~ The Captain.md",
@@ -47,6 +30,37 @@
               },
               "icon": "lucide-file",
               "title": "Isaac Was'utala Wasomun ~ The Captain"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3f1d948b58ca5f03",
+        "type": "tabs",
+        "dimension": 57.2202166064982,
+        "children": [
+          {
+            "id": "cfd296161c483dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kai Lete Lawa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kai Lete Lawa"
             }
           },
           {
@@ -95,6 +109,30 @@
               },
               "icon": "lucide-file",
               "title": "2025-02-15"
+            }
+          },
+          {
+            "id": "24733d43187811cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alliance High Command.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Alliance High Command"
             }
           }
         ],
@@ -151,7 +189,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,7 +256,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Isaac Was'utala Wasomun ~ The Captain.md"
+                "file": "Isaac Was'utala Wasomun ~ The Captain.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of Isaac Was'utala Wasomun ~ The Captain"
@@ -234,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -250,34 +292,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fadf59564917d016",
+  "active": "c7d7966cddff1927",
   "lastOpenFiles": [
+    "Leviathans.md",
     "Isaac Was'utala Wasomun ~ The Captain.md",
     "2025-02-15.md",
     "Kai Lete Lawa.md",
-    "The Captain.md",
-    "The Still Pond Cafe.md",
+    "Alliance High Command.md",
+    "The Amaranton Republic.md",
+    "Queen Augustina Jan Lawa pi Kulupu I.md",
+    "Gravity Clocks.md",
+    "2025-02-08.md",
+    "Character Questionnaire.md",
+    "The Rogue Wave.md",
     "The Invisible Hand.md",
-    "dangerous.md",
-    "impact.md",
+    "ruin.md",
+    "bane.md",
+    "distinct.md",
+    "area.md",
+    "Jesse Anderson.md",
+    "versatile.md",
     "setup.md",
     "mounted.md",
-    "second revolution.md",
     "ranged.md",
-    "versatile.md",
+    "impact.md",
     "defensive.md",
     "decisive.md",
-    "2024-12-14.md",
-    "2025-02-08.md",
-    "2024-10-12.md",
-    "the revolution.md",
-    "The Second Revolution.md",
-    "Character Questionnaire.md",
-    "Alfonzo Alcazar.md",
-    "2024-08-17.md",
-    "Demos.md",
-    "Calliope Calamity.md",
-    "Gunpowder Cassanova.md",
+    "dangerous.md",
+    "The Captain.md",
     "Untitled.canvas"
   ]
 }
