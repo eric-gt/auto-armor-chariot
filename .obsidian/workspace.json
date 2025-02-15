@@ -16,8 +16,17 @@
               "state": {
                 "file": "2025-02-08.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "2025-02-08"
@@ -38,14 +47,36 @@
               "state": {
                 "file": "Isaac Was'utala Wasomun ~ The Captain.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Isaac Was'utala Wasomun ~ The Captain"
             }
+          },
+          {
+            "id": "ed6f6d4253335237",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +95,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -196,7 +228,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfd296161c483dab",
+  "active": "ed6f6d4253335237",
   "lastOpenFiles": [
     "2025-02-08.md",
     "Isaac Was'utala Wasomun ~ The Captain.md",
