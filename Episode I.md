@@ -1,9 +1,10 @@
 ---
 tags:
   - session
+date: 2024-10-12
 ---
 
-# Session 1
+# Summary 
 
 During dinner with the [[Cpt. Esperanza]] of [[The Wandering Crow]], en route to [[Nokama]], a ship drops below the cloud layer and fires 2 warning shots, while signaling in Morse Code:
 

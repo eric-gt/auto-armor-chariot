@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Episode 5.md",
+                "file": "Episode 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Episode 5"
+              "title": "Episode 2"
             }
           },
           {
@@ -219,20 +219,24 @@
   },
   "active": "b12486d32588da11",
   "lastOpenFiles": [
-    "Kala Courvoisier.md",
+    "Episode 3.md",
     "Episode 5.md",
-    "Holly “Doc” M’Benga.md",
+    "The Gang.md",
+    "Episode I.md",
+    "Senior Staff.md",
     "Carolyn Jack.md",
+    "The Presidio.md",
+    "Episode 2.md",
+    "Holly “Doc” M’Benga.md",
+    "Kala Courvoisier.md",
     "Isaac Was'utala Wasomun ~ The Captain.md",
     "Leo Socorrin.md",
     "Yuri Artorianova.md",
-    "Senior Staff.md",
     "Episode 4.md",
     "Kai Lete Lawa.md",
     "Violeta June.md",
     "The Wandering Crow.md",
     "distinct.md",
-    "2024-12-14.md",
     "The Still Pond Cafe.md",
     "Deimos.md",
     "area.md",
@@ -240,10 +244,6 @@
     "Queen Augustina Jan Lawa pi Kulupu I.md",
     "cum.md",
     "Gravity Clocks.md",
-    "The Amaranton Republic.md",
-    "mounted.md",
-    "Calliope Calamity.md",
-    "decisive.md",
-    "Cpt. Esperanza.md"
+    "The Amaranton Republic.md"
   ]
 }

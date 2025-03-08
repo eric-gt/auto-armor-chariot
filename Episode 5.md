@@ -1,5 +1,9 @@
 ---
 date: 2025-03-08
+locations:
+  - "[[Nokama]]"
+  - "[[The Winter Palace]]"
+  - "[[Tomoteloma]]"
 ---
 # Summary
 *Interior Shot*: a black steam powered car with bench seats. [[The Gang]] sit with [[Kai Lete Lawa]] on their way to [[The Winter Palace]]. 
@@ -37,3 +41,23 @@ The rest of the group is introduced. Leo corrects Kai when they introduce him, "
 
 Yuri rolls [[Connected]]. His relationship with Leo is...complicated. Leo thinks the world of Yuri, but Yuri finds him insufferable. They exchange greetings. 
 
+[[Jesse Anderson|Ande]] introduces themself to Holly "I'm not much of a ship's engineer but I am a bit of a mechanic, if you'll ever need the help". Holly claps him on the back and says "there's no need to be formal around me. I appreciate someone who's straightforward and doesn't give me any guff"
+
+Once introductions have been made, Kai sits back at their  desk and addresses the assembled [[Senior Staff]]
+> This is your last, last chance to back out. What I am about to tell you is strictly confidential, from High Command
+
+A slight pause. Nobody leaves. 
+
+> Very well. As you may well know, [[Alliance High Command]] has decided that now is the time to escalate your push to reclaim land as the situation abroad in [[Leonan Empire|Leona]] is deteriorating. Two of the three imperial legions were recalled to [[Leonos]]. We have been at a bit of a disadvantage in terms of keeping our people supplied: while we have to ship our goods in by airship from [[The Amaranton Republic|Amaranton]], the Leonans have managed to somehow keep a sea lane open despite the presence of [[Leviathans]] in the deep ocean. It's something we've been trying to figure out for some time whilst keeping pressure on the sea lanes using pirates and corsairs. We have made some progress on this front, a Leonan scientist has contacted our spy network [[Ariadne]] claiming she wishes to defect, and has the research notes on how the empire controls the leviathans. Your mission will be to extract her and bring her safely to us. She is being held in a safe house in the capitol, the perfect trial run for our false flag operation. You will be able to freely enter the capital's port under the guise of independent merchants.
+
+Isaac raises a concern about him and Yuri being recognized and Kai says "you're not that famous boo" (not in so many words)
+
+Ande
+> On the subject of not drawing attention to ourselves, I am a mechanic and a charioteer. How will 2 demon chariots be received on a merchant ship?
+
+Mister Jack responds that armed merchant ships are known to carry charioteers in the ever increasing likelihood that pirates attack them for their cargo (see [[Episode I]])
+
+Omma asks what type of scientist the [[Defector Scientist|defector]] is. Kai responds that she specializes in the magical science behind enchantments. No further questions.
+
+Kai
+> I will send out a more detailed dossier later. You set out in 1 week', so I suggest you use the time constructively. We will convene at [[The Presidio]] where your ship and equipment are being held.

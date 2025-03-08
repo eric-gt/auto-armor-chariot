@@ -1,5 +1,10 @@
-# Session 3
-### A Timely Ruse
+---
+date: 2025-02-08
+---
+
+# Summary
+## A Timely Ruse
+### [[Sortie]]
 [[Ommatokoita Ancylos Lichtenberg|Lichtenberg]], in [[Deimos]] lunges with its sword at the enemy [[Demon Chariot]] , who expertly backflips out of the way and lands on the tip of the sword, apparently using some magic to cancel out its weight. The [[Channeler]] introduces herself as  [[Calliope Calamity]], pilot of  [[Gunpowder Cassanova]].
 
 [[Jesse Anderson]] assumes an anime-ass stance and announces himself as pilot of [[The Dogged Day]].  Omma simply holds her thrust position and simply says "[[Ommatokoita Ancylos Lichtenberg]]. Deimos."  Omma and CeCe exchange gunshots, each narrowly missing the other. Landing gracefully on the ground, CeCe trains a gun each on Andi and Omma and laughs: "I'll take you both on!"

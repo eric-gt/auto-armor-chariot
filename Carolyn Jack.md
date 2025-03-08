@@ -10,6 +10,7 @@
 - Expert rank in both close quarters combat and marksmanship
 - 3 years as a squad leader
 ## Bio
+Pronouns: She/Her
 Jack distinguished herself during [[The First Revolution]] as a scrappy guerilla in [[The Rogue Wave]], leading sorties against [[The Tomoteloman Monarchy|monarchy]] forces to attack key strategic operations and  disrupt critical supply lines. Her catlike augmentations complement her already heightened instincts for combat, and she is a shrewd tactician, having led several successful missions without friendly losses, and on occasion without detection. Despite her battlefield accolades,  [[The Invisible Hand]] will be her first deployment as a senior officer.
 
 ## Relationships

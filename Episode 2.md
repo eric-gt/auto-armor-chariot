@@ -1,10 +1,12 @@
 ---
 tags:
   - session
+date: 2024-12-14
 ---
-# Session 2 - The Fog of War 
-### Wavedashing the Dog Mech
-
+#  The Fog of War  
+#### Or, Wavedashing the Dog Mech
+## Session Notes
+### [[Sortie]]
 [[Denise]] steam dashes into [[Ommatokoita Ancylos Lichtenberg|Omma's]] mech while she's in the process of clambering into it , slamming it across the room and breaking her arm. Steam fills the room, [[Blinded|blinding]] the charioteers.
 
 [[Jesse Anderson]] is able to board her mech and power it on just as [[Gene]] rushes her. She takes [[Heat]] to counter the attack, and counter attacks with [[Nova Whip]], [[Disrupt|disrupting]] Gene's mech.
