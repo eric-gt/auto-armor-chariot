@@ -11,7 +11,7 @@ Class: Pegasus
 Manufacturer: [[The Amaranton Republic]]
 [[Tier]]: 5
 Captain: [[Isaac Was'utala Wasomun ~ The Captain|Isaac Wasomun]]
-First Mate: [[Mister Jack]]
+First Mate: [[Carolyn Jack]]
 [[Traits#CREW|CREW]]: +3
 
 

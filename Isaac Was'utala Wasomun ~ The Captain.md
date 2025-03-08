@@ -91,7 +91,7 @@ Scum-sucking, lily-livered landlubber trying to save face and grab power. A disg
 ### [[Jesse Anderson]]
 Seems like a bright young greenhorn, Nothing I haven't seen before. I'll make a fine sailor/charioteer out of him, whether he likes it or not.
 
-### [[Mister Jack]] 
+### [[Carolyn Jack]] 
 
 ### [[Kai Lete Lawa]]
 I was there for their noble debut, and considered them a perfectly inoffensive young adult. We did not cross paths during [[The First Revolution]], but I have heard the rumors of the conduct of their resistance cell.

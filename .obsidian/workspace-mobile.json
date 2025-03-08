@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "Isaac Was'utala Wasomun ~ The Captain"
             }
+          },
+          {
+            "id": "b12486d32588da11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Episode 5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Episode 5"
+            }
+          },
+          {
+            "id": "01f7db853de7151e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leo Socorrin.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Leo Socorrin"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,13 +217,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd81b3a0ef4216fe",
+  "active": "b12486d32588da11",
   "lastOpenFiles": [
+    "Kala Courvoisier.md",
+    "Episode 5.md",
+    "Holly “Doc” M’Benga.md",
+    "Carolyn Jack.md",
     "Isaac Was'utala Wasomun ~ The Captain.md",
     "Leo Socorrin.md",
+    "Yuri Artorianova.md",
+    "Senior Staff.md",
+    "Episode 4.md",
+    "Kai Lete Lawa.md",
     "Violeta June.md",
-    "2025-02-15.md",
-    "Crew Dossiers.md",
     "The Wandering Crow.md",
     "distinct.md",
     "2024-12-14.md",
@@ -184,17 +239,11 @@
     "defensive.md",
     "Queen Augustina Jan Lawa pi Kulupu I.md",
     "cum.md",
-    "Kai Lete Lawa.md",
     "Gravity Clocks.md",
     "The Amaranton Republic.md",
     "mounted.md",
     "Calliope Calamity.md",
     "decisive.md",
-    "Cpt. Esperanza.md",
-    "2025-02-08.md",
-    "The Reaving Blade.md",
-    "The Second Revolution.md",
-    "2024-10-12.md",
-    "Alliance High Command.md"
+    "Cpt. Esperanza.md"
   ]
 }
