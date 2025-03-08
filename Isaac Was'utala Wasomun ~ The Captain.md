@@ -4,7 +4,7 @@ tags:
   - player-character
   - Tomoteloma
 ---
-Played by: [[Eric]]
+Played by: [[Violeta June]]
 Playbook: [[The Captain]] 
 # In Game
 ## Spotlight: 3
