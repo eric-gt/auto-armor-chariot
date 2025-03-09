@@ -6,7 +6,7 @@ Able to get serious with needs be and not undercut that seriousness, but at the 
 Avoid wallowing, pessimism, cynicism, but realistic
 
 Character Sheets:
-[[Isaac Was'utala Wasomun ~ The Captain]]
+[[Isaac "Was'utala" Wasomun]]
 [[Yuri Artorianova]]
 [[Ommatokoita Ancylos Lichtenberg]]
 [[Jesse Anderson]]

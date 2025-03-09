@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isaac Was'utala Wasomun ~ The Captain.md",
+                "file": "Isaac \"Was'utala\" Wasomun.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Isaac Was'utala Wasomun ~ The Captain"
+              "title": "Isaac \"Was'utala\" Wasomun"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Episode 2.md",
+                "file": "The Invisible Hand.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Episode 2"
-            }
-          },
-          {
-            "id": "01f7db853de7151e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leo Socorrin.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Leo Socorrin"
+              "title": "The Invisible Hand"
             }
           }
         ],
@@ -108,7 +84,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:tier-5",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -143,7 +119,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "0fa66ff967d03db1",
@@ -219,31 +195,31 @@
   },
   "active": "b12486d32588da11",
   "lastOpenFiles": [
-    "Episode 3.md",
-    "Episode 5.md",
-    "The Gang.md",
-    "Episode I.md",
-    "Senior Staff.md",
-    "Carolyn Jack.md",
-    "The Presidio.md",
-    "Episode 2.md",
-    "Holly “Doc” M’Benga.md",
-    "Kala Courvoisier.md",
-    "Isaac Was'utala Wasomun ~ The Captain.md",
-    "Leo Socorrin.md",
-    "Yuri Artorianova.md",
-    "Episode 4.md",
-    "Kai Lete Lawa.md",
-    "Violeta June.md",
-    "The Wandering Crow.md",
+    "Nokama.md",
+    "The Invisible Hand.md",
+    "Traits.md",
+    "setup.md",
+    "ruin.md",
+    "impact.md",
     "distinct.md",
-    "The Still Pond Cafe.md",
-    "Deimos.md",
+    "dangerous.md",
+    "bane.md",
     "area.md",
-    "defensive.md",
-    "Queen Augustina Jan Lawa pi Kulupu I.md",
-    "cum.md",
-    "Gravity Clocks.md",
-    "The Amaranton Republic.md"
+    "The Captain.md",
+    "Episode 2.md",
+    "Episode 3.md",
+    "Episode 4.md",
+    "Episode 5.md",
+    "Ariadne.md",
+    "Tomoteloman Republic.md",
+    "The Winter Palace.md",
+    "Carolyn Jack.md",
+    "Episode 1.md",
+    "The Presidio.md",
+    "Character Questionnaire.md",
+    "Senior Staff.md",
+    "Leo Socorrin.md",
+    "Isaac \"Was'utala\" Wasomun.md",
+    "The Second Revolution.md"
   ]
 }

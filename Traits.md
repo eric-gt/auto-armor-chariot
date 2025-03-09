@@ -1,8 +1,7 @@
 ---
-tags:
-  - mechanic
-  - trait
+tags: []
 ---
+Core [[mechanic]]s that influence how [[Player Character]]s perform on dice rolls
 # DEFY
 The ability to  resist pressure and power through adversity
 # SENSE

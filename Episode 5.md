@@ -1,14 +1,16 @@
 ---
 date: 2025-03-08
 locations:
-  - "[[Nokama]]"
   - "[[The Winter Palace]]"
+  - "[[Nokama]]"
   - "[[Tomoteloma]]"
 ---
-# Summary
+# Untitled
+## [[Session Notes]]
+### [[Roleplay]]
 *Interior Shot*: a black steam powered car with bench seats. [[The Gang]] sit with [[Kai Lete Lawa]] on their way to [[The Winter Palace]]. 
 Kai: 
-> To be clear, I'm asking for Mister [[Isaac Was'utala Wasomun ~ The Captain|Wasomun]] here to be the captain, for Mister [[Yuri Artorianova|Artorianova]] to be the diplomat on board, and for Mister [[Jesse Anderson|Anderson]] and Miss [[Ommatokoita Ancylos Lichtenberg|Lichtenberg]] to serve as your [[Channeler]] complement...Nobody was our first choice for the position, but every one of you  is competent, and many are excellent
+> To be clear, I'm asking for Mister [[Isaac "Was'utala" Wasomun|Wasomun]] here to be the captain, for Mister [[Yuri Artorianova|Artorianova]] to be the diplomat on board, and for Mister [[Jesse Anderson|Anderson]] and Miss [[Ommatokoita Ancylos Lichtenberg|Lichtenberg]] to serve as your [[Channeler]] complement...Nobody was our first choice for the position, but every one of you  is competent, and many are excellent
 
 Until the program is proven, [[The Tomoteloman Monarchy|the Monarchy]] does not want to release new recruits. Kai is taking the gang to meet with the rest of the [[Senior Staff]]. 
 
@@ -55,7 +57,7 @@ Isaac raises a concern about him and Yuri being recognized and Kai says "you're 
 Ande
 > On the subject of not drawing attention to ourselves, I am a mechanic and a charioteer. How will 2 demon chariots be received on a merchant ship?
 
-Mister Jack responds that armed merchant ships are known to carry charioteers in the ever increasing likelihood that pirates attack them for their cargo (see [[Episode I]])
+Mister Jack responds that armed merchant ships are known to carry charioteers in the ever increasing likelihood that pirates attack them for their cargo (see [[Episode 1]])
 
 Omma asks what type of scientist the [[Defector Scientist|defector]] is. Kai responds that she specializes in the magical science behind enchantments. No further questions.
 
