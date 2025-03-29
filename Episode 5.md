@@ -59,7 +59,7 @@ Ande
 
 Mister Jack responds that armed merchant ships are known to carry charioteers in the ever increasing likelihood that pirates attack them for their cargo (see [[Episode 1]])
 
-Omma asks what type of scientist the [[Defector Scientist|defector]] is. Kai responds that she specializes in the magical science behind enchantments. No further questions.
+Omma asks what type of scientist the [[Dr. Vivian Nimue|defector]] is. Kai responds that she specializes in the magical science behind enchantments. No further questions.
 
 Kai
 > I will send out a more detailed dossier later. You set out in 1 week', so I suggest you use the time constructively. We will convene at [[The Presidio]] where your ship and equipment are being held.

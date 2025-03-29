@@ -54,9 +54,86 @@
               "icon": "lucide-file",
               "title": "The Invisible Hand"
             }
+          },
+          {
+            "id": "053746c5fbb9fa7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Episode 5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Episode 5"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "8a0363d4b452e47b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b92b18e385db255d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Episode 6.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Episode 6"
+            }
+          },
+          {
+            "id": "6681d68a7ae0d71a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Command Deck or Briefing Room.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Command Deck or Briefing Room"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +161,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:tier-5",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -119,7 +196,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "0fa66ff967d03db1",
@@ -193,10 +270,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b12486d32588da11",
+  "active": "dd81b3a0ef4216fe",
   "lastOpenFiles": [
-    "Nokama.md",
+    "Episode 6.md",
+    "Command Deck or Briefing Room.md",
+    "Isaac \"Was'utala\" Wasomun.md",
+    "Plan and Prepare.md",
+    "Downtime.md",
+    "Episode 5.md",
+    "Kai Lete Lawa.md",
+    "Carolyn Jack.md",
+    "Connected.md",
+    "Dr. Vivian Nimue.md",
+    "Gravity Clocks.md",
     "The Invisible Hand.md",
+    "Nokama.md",
     "Traits.md",
     "setup.md",
     "ruin.md",
@@ -209,17 +297,6 @@
     "Episode 2.md",
     "Episode 3.md",
     "Episode 4.md",
-    "Episode 5.md",
-    "Ariadne.md",
-    "Tomoteloman Republic.md",
-    "The Winter Palace.md",
-    "Carolyn Jack.md",
-    "Episode 1.md",
-    "The Presidio.md",
-    "Character Questionnaire.md",
-    "Senior Staff.md",
-    "Leo Socorrin.md",
-    "Isaac \"Was'utala\" Wasomun.md",
-    "The Second Revolution.md"
+    "Ariadne.md"
   ]
 }
