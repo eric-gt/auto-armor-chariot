@@ -92,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Episode 6.md",
+                "file": "Social Space or Private Quarters.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -107,7 +107,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Episode 6"
+              "title": "Social Space or Private Quarters"
             }
           },
           {
@@ -273,12 +273,13 @@
   },
   "active": "b92b18e385db255d",
   "lastOpenFiles": [
-    "Isaac \"Was'utala\" Wasomun.md",
-    "Episode 5.md",
     "Episode 6.md",
-    "Somewhere Nearby.md",
-    "Infirmary or Hanger.md",
+    "Social Space or Private Quarters.md",
+    "Isaac \"Was'utala\" Wasomun.md",
     "Holly “Doc” M’Benga.md",
+    "Infirmary or Hanger.md",
+    "Episode 5.md",
+    "Somewhere Nearby.md",
     "Command Deck or Briefing Room.md",
     "Plan and Prepare.md",
     "Downtime.md",
@@ -297,7 +298,6 @@
     "dangerous.md",
     "bane.md",
     "area.md",
-    "The Captain.md",
-    "Episode 2.md"
+    "The Captain.md"
   ]
 }

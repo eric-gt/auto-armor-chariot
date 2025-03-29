@@ -58,9 +58,9 @@ You acquire somethingâ€”a tool, ship upgrade, a caged malevolent sentience, etcâ
 - I betrayed [[The Tomoteloman Monarchy]] which is now funding this [[The Second Revolution|revolution]] and this mission, because I believe that the people of [[Tomoteloma]] deserve the right of self-determination.
 
 # [[Gravity Clocks]]
-1. [[Yuri Artorianova]] 1/6 (+2)
+1. [[Yuri Artorianova]] 1/6 (+1)
 2. [[The Tomoteloman Monarchy]] 0/6 (+1)
-3. Not Specified 0/6
+3. [[The Leviathan Within]] 0/6 (+1)
 ### Gravity Clock Trigger
 
 Whenever anybody rolls a 6 or below with [[Traits#CREW|CREW]], mark a gravity clock with someone who placed their trust in you.
