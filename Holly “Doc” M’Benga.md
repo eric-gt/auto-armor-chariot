@@ -10,6 +10,9 @@
 ## Bio
 Commander M’Benga is a polymath. She left a 15 year career as a physician at the outbreak of [[The First Revolution]] to establish herself as one of the greatest airship engineers in recent memory. Her field-repairs and slapdash projects have gone on to be adopted by several shipbuilders as state-of-the art systems in use in both military and civilian models. The ships she serves on have a reputation for defying the odds in speed, performance and resilience. 
 
+## Appearance
+Black, middle aged. Shaved head. Overalls over a henley that was once white, welding goggles on her head, headband around her neck. Leather toolbelt & boots.
+
 ## Relationships 
 [[Jesse Anderson]]: 
 ## Captain’s Notes

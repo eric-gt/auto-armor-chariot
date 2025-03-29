@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isaac \"Was'utala\" Wasomun.md",
+                "file": "Holly “Doc” M’Benga.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Isaac \"Was'utala\" Wasomun"
+              "title": "Holly “Doc” M’Benga"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Episode 5.md",
+                "file": "Isaac \"Was'utala\" Wasomun.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Episode 5"
+              "title": "Isaac \"Was'utala\" Wasomun"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "8a0363d4b452e47b",
@@ -270,14 +271,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd81b3a0ef4216fe",
+  "active": "b92b18e385db255d",
   "lastOpenFiles": [
-    "Episode 6.md",
-    "Command Deck or Briefing Room.md",
     "Isaac \"Was'utala\" Wasomun.md",
+    "Episode 5.md",
+    "Episode 6.md",
+    "Somewhere Nearby.md",
+    "Infirmary or Hanger.md",
+    "Holly “Doc” M’Benga.md",
+    "Command Deck or Briefing Room.md",
     "Plan and Prepare.md",
     "Downtime.md",
-    "Episode 5.md",
     "Kai Lete Lawa.md",
     "Carolyn Jack.md",
     "Connected.md",
@@ -294,9 +298,6 @@
     "bane.md",
     "area.md",
     "The Captain.md",
-    "Episode 2.md",
-    "Episode 3.md",
-    "Episode 4.md",
-    "Ariadne.md"
+    "Episode 2.md"
   ]
 }

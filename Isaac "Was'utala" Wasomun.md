@@ -58,7 +58,7 @@ You acquire somethingâ€”a tool, ship upgrade, a caged malevolent sentience, etcâ
 - I betrayed [[The Tomoteloman Monarchy]] which is now funding this [[The Second Revolution|revolution]] and this mission, because I believe that the people of [[Tomoteloma]] deserve the right of self-determination.
 
 # [[Gravity Clocks]]
-1. [[Yuri Artorianova]] 0/6 (+1)
+1. [[Yuri Artorianova]] 1/6 (+2)
 2. [[The Tomoteloman Monarchy]] 0/6 (+1)
 3. Not Specified 0/6
 ### Gravity Clock Trigger
