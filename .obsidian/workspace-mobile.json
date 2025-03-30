@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isaac \"Was'utala\" Wasomun.md",
+                "file": "The Leviathan Within.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,65 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Isaac \"Was'utala\" Wasomun"
+              "title": "The Leviathan Within"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "8a0363d4b452e47b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b92b18e385db255d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Episode 6.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Episode 6"
-            }
-          },
-          {
-            "id": "6681d68a7ae0d71a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Command Deck or Briefing Room.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Command Deck or Briefing Room"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -271,11 +217,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b92b18e385db255d",
+  "active": "053746c5fbb9fa7d",
   "lastOpenFiles": [
-    "Social Space or Private Quarters.md",
-    "Episode 6.md",
     "Isaac \"Was'utala\" Wasomun.md",
+    "The Leviathan Within.md",
+    "Episode 6.md",
+    "Social Space or Private Quarters.md",
     "Holly “Doc” M’Benga.md",
     "Infirmary or Hanger.md",
     "Episode 5.md",
@@ -297,7 +244,6 @@
     "distinct.md",
     "dangerous.md",
     "bane.md",
-    "area.md",
-    "The Captain.md"
+    "area.md"
   ]
 }
