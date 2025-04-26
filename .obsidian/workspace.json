@@ -31,21 +31,8 @@
               "icon": "lucide-file",
               "title": "Isaac Was'utala Wasomun ~ The Captain"
             }
-          },
-          {
-            "id": "e91872d1739571bd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3f1d948b58ca5f03",
@@ -305,7 +292,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e91872d1739571bd",
+  "active": "2e1e1b95e6364cc2",
   "lastOpenFiles": [
     "The Invisible Hand.md",
     "Tier.md",
