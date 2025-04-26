@@ -1,48 +1,48 @@
 ---
-tags:
-  - vehicle
-  - Tomoteloma
-  - tier-5
+factions:
+  - "[[Alliance High Command]]"
+  - "[[The Cause]]"
+tier: "5"
+class: "[[Pegasus Class]]"
+type: "[[Airship]]"
+manufacturer: "[[The Amaranton Republic]]"
 ---
-The party's [[Carrier]]
+
+[[The Gang]]'s [[Carrier]]
 # About
-Type: Airship
-Class: Pegasus
-Manufacturer: [[The Amaranton Republic]]
-[[Tier]]: 5
-Captain: [[Isaac Was'utala Wasomun ~ The Captain|Isaac Wasomun]]
-First Mate: [[Mister Jack]]
+## [[Stats]]
 [[Traits#CREW|CREW]]: +3
 
 
-Primary Weapon:  
----
+## Primary [[Weapon]]:  
 **Name**: Tyranny of Angels
-**Tier**: 5
-**Range**: Ranged
+**[[Tier]]**: 5
+**Range**: [[ranged]]
 **Description**: A enchanted weapon that fires a salvo of rocket munitions at targets cursed by a [[Channeler]]. 
-**Tags**: [[setup]], [[mounted]], [[impact]], [[guided]], [[dangerous]], [[area]],  [[distinct]], [[ruin]], 
+**[[Tags]]**: [[setup]], [[mounted]], [[impact]], [[guided]], [[dangerous]], [[area]],  [[distinct]], [[ruin]], 
 **Total**: +2
 
-Secondary Weapons
----
-
+## Secondary [[Weapon]]s
 **Name**: 
 **Tier**: 3
-**Range**: Ranged
+**Range**: [[ranged]]
 **Description**: Anti-Air machine gun emplacements. 
 **Tags**: [[mounted]], [[defensive]] 
 
 
-# Crew
+# [[Crew]]
+[[Captain]]: [[Isaac Was'utala Wasomun]]
+[[First Mate]]: [[Carolyn Jack]]
+[[Boatswain]]: [[Kala Courvoisier]]
 [[Ship's Doctor]]: [[Leo Socorrin]]
-[[Ship's Engineer]]: [[Ex-Doctor, Best Engineer]]
-Demon Engineer: [[Jesse Anderson]] and [[Ommatokoita Ancylos Lichtenberg|Lichtenberg]]'s 
-Ensign Channelers [[April Johnson]] & [[May Johnson]]
+[[Ship's Engineer]]: [[Holly Doc M’Benga]]
+[[Chief of Security]]: [[Jan Utala]]
+[[Quartermaster]]: [[John Merrigold]]
+[[Demon Chariot|Demon]] Engineer: [[Jesse Anderson]] and [[Ommatokoita Ancylos Lichtenberg|Lichtenberg]]'s 
+Ensign [[Channelers]]: [[April Johnson]] & [[May Johnson]]
 [[Ship's Navigator]]
 [[Helmsman]]
 [[Communications]]
 [[Weapons]]
 [[Marines]]
 [[Ship’s cook]]
-[[Quartermaster]]

@@ -1,16 +1,11 @@
----
-tags:
-  - character-sheet
-  - player-character
-  - Tomoteloma
----
-Played by: [[Eric]]
-Playbook: [[The Captain]] 
+[[Player Character]]
+Played by: [[Violeta June]]
+[[Playbook]]: [[The Captain]] 
 # In Game
-## Spotlight: 3
+## [[Spotlight]]: 3
 
-## Risks: 
-## Perils: 
+## [[Risks]]: 
+## [[Perils]]: 
 [[Limping]]
 # STATS
 ## [[Traits#DEFY|DEFY]]: 0
@@ -44,11 +39,11 @@ A library, filled with charts, operating manuals, and the Captain's personal col
 # PLAYER [[Moves|MOVES]]
 ## In Command 
 
-You are the [[Carrier]]’s captain, and naturally have command of its crew. While at the helm of the [[Carrier]], you may order the crew to perform moves on your behalf: unlike when other [[Playbooks]] use [[Traits#CREW]], you may do this any number of times. Increase your Carrier’s [[Traits#CREW]] by 1. When you do so, explain how the crew helps you do this thing—they share in the consequences of your move, good and bad. You are responsible for their lives. If things go bad rolling your [[Traits]], things go bad for you. If things go bad rolling [[Traits#CREW]], you endanger everyone. Additionally, both [[Carrier]] and crew are part of your character as far as risks and perils are concerned, just like an [[Astir]] is an extension of its [[Channeler]]. To reflect the many minds and hands at work for you, you are [[Defenceless]] at 4 [[dangers]] while at the helm of your [[Carrier]], rather than 3. You go down with it, and it goes down with you
+You are the [[Carrier]]’s captain, and naturally have command of its crew. While at the helm of the [[Carrier]], you may order the crew to perform moves on your behalf: unlike when other [[Playbook]] roll [[Traits#CREW|+CREW]], you may do this any number of times. Increase your Carrier’s [[Traits#CREW]] by 1. When you do so, explain how the crew helps you do this thing—they share in the consequences of your move, good and bad. You are responsible for their lives. If things go bad rolling your [[Traits]], things go bad for you. If things go bad rolling [[Traits#CREW|+CREW]], you endanger everyone. Additionally, both [[Carrier]] and crew are part of your character as far as risks and perils are concerned, just like an [[Astir]] is an extension of its [[Channeler]]. To reflect the many minds and hands at work for you, you are [[Defenceless]] at 4 [[dangers]] while at the helm of your [[Carrier]], rather than 3. You go down with it, and it goes down with you.
 
 ## Tactical Genius
 When you're supervising allies from afar during a Sortie, you can lever your tactical know-how into better positioning. Take 1+[[Traits#KNOW|KNOW]] hold at the start of a Sortie, and spend it 1-for-1 to do the following;
--  Remove one [[Risk]] from an ally. 
+-  Remove one [[Risks|Risk]] from an ally. 
 - Give an ally [[Advantage]] to their next move, describing how you advise or support them. 
 - Have an ally appear somehow in a place they are needed. 
 ## Force Multiplier 
@@ -59,13 +54,13 @@ You acquire something—a tool, ship upgrade, a caged malevolent sentience, etc�
 
 # Hooks
 - I blame myself for my old commander’s death while I was defecting.
-- I communed with a [[Leviathans|leviathan]] and it left me changed.
-- I betrayed [[The Tomoteloman Monarchy]] which is now funding this [[The Second Revolution|revolution]], because I believe that the people of [[Tomoteloma]] deserve the right of self-determination.
+- I communed with a [[Leviathans|leviathan]] and it left me changed. In dreams, I think it speaks to me
+- I betrayed [[The Tomoteloman Monarchy]] which is now funding this [[The Second Revolution|revolution]] and this mission, because I believe that the people of [[Tomoteloma]] deserve the right of self-determination.
 
 # [[Gravity Clocks]]
-1. [[Yuri Artorianova]] 0/6 (+1)
+1. [[Yuri Artorianova]] 1/6 (+1)
 2. [[The Tomoteloman Monarchy]] 0/6 (+1)
-3. Not Specified 0/6
+3. [[The Leviathan Within]] 0/6 (+1)
 ### Gravity Clock Trigger
 
 Whenever anybody rolls a 6 or below with [[Traits#CREW|CREW]], mark a gravity clock with someone who placed their trust in you.
@@ -82,21 +77,22 @@ Aged but Distinguished. Salt and Pepper beard and medium length black-but-greyin
 
 # RELATIONSHIPS
 ### [[Ommatokoita Ancylos Lichtenberg]]  
-The PC he respects the most. No complaints about character, but the fact that she's a scientist and leviathan-touched strikes him as a liability for a senior officer of a combat airship.
+The PC he respects the most. No complaints about character, but the fact that she's a scientist and leviathan-touched strikes him as a liability for a senior officer of a combat airship. Not that he has any room to talk, mind you.
 
 ### [[Yuri Artorianova]]
 Scum-sucking, lily-livered landlubber trying to save face and grab power. A disgrace to the mantle of warrior. Understands he was a celebrity of some kind before becoming a war-hero [[cum]] politician, but he doesn't really care about Herlock Sholmes. He prefers to read poetry and history.
-[[2025-02-08#Session 3]]: He fucking shot me!!
+[[Episode 3#Session 3]]: He fucking shot me!!
 
 ### [[Jesse Anderson]]
 Seems like a bright young greenhorn, Nothing I haven't seen before. I'll make a fine sailor/charioteer out of him, whether he likes it or not.
 
-### [[Mister Jack]] 
+### [[Carolyn Jack]] 
+I've heard of her from her exploits in [[The First Revolution]], but we've not crossed paths until now. She seems a capable soldier, let's see if she's up to the challenge of being a senior officer.
 
 ### [[Kai Lete Lawa]]
 I was there for their noble debut, and considered them a perfectly inoffensive young adult. We did not cross paths during [[The First Revolution]], but I have heard the rumors of the conduct of their resistance cell.
 # HISTORY
-A native of [[Tomoteloma]], Isaac was born in a small fishing village in the north of the archipelago. His mother called him Wasomun, her little nightbird, because of the way he stared up at the night sky whenever he could see the stars. He was the youngest of 3 boys, and chafed under the monotony of village life. He ran away shortly after his 14th birthday, stowing away on a navy cutter that had passed through the area to collect tax for the monarchy. The captain saw promise in the young boy after he was caught and put to work on starvation rations, and brought him on as a deckhand. He climbed his way through the ranks of the Navy and was recommended to the fledgling Officers program, part of [[Tomoteloma]]'s ambition to modernize their armed forces. 
+A native of [[Tomoteloma]], Isaac was born in a small fishing village in the north of the archipelago. His mother called him [[Wasomun]], her little nightbird, because of the way he stared up at the night sky whenever he could see the stars. He was the youngest of 3 boys, and chafed under the monotony of village life. He ran away shortly after his 14th birthday, stowing away on a navy cutter that had passed through the area to collect tax for the monarchy. The captain saw promise in the young boy after he was caught and put to work on starvation rations, and brought him on as a deckhand. He climbed his way through the ranks of the Navy and was recommended to the fledgling Officers program, part of [[Tomoteloma]]'s ambition to modernize their armed forces. 
 
 When news spread of the first [[Leviathans|leviathan]] sightings and subsequent attacks, Commander Wasomun (Isaac Wasomun, as he now called himself), was assigned as First Mate on the first airship[[Tomoteloma]] acquired, the [[The Amaranton Republic|Amaranton]] made _[[Endeavor]]_. Alongside its captain, he made a name for himself as capable and formidable in both air-to-air and air-to-sea combat, and was given command of the [[The Tomoteloman Monarchy]]'s second airship: a carrier named _[[Seli Pilin]]_ (Fireheart), due to its experimental petrichor engine. 
 
@@ -104,6 +100,6 @@ Isaac's career was that of any good officer: boring, mostly.  [[Tomoteloma]] did
 
 For all his strategic prowess and cunning in battle, Wasomun was in many ways sheltered by his rank. He believed in the chain of command, with the monarchy at its peak. In many ways it was all he'd ever known. So when he began receiving orders to deploy marines to areas of civil unrest he was taken aback. And when he read the after-action reports of their conduct among the civilians he swore an oath to protect, he was horrified. Many of his senior officers felt the same way.  When civil war was inevitable, they devised a daring plan. With a skeleton crew of like-minded enlisted, they hatched a plot to defect, stealing an airship for [[The Cause]]. Wasomun's commanding officer, [[Vice Admiral Genevieve Awenema]] gave chase  in the Monarchy's flagship _[[Kingspear]]_.  But Wasomun's faster and more maneuverable ship was able to lose them in a hair raising escape through a mountain pass. The _Kingspear_ could not thread the needle, and [[Vice Admiral Genevieve Awenema|Awanema]] perished in the ensuing crash.
 
-[[The First Revolution]] is where Wasomun became _Was'Utala_, the Warbird. He and his crew were the terror of the monarchy, launching sorties and surprise attacks at a relentless pace. Wasomun used his years of experience fighting pirates and guerillas to become one, doing everything he could to advance the cause of a free [[Tomoteloma]]. The skill of his crew was matched only by their infamy, and every loyalist longed to be the one to bring the traitors and mutineers to justice. This revulsion by the enemy however, did not necessarily translate into adoration by the rebel forces. They viewed Wasomun and his crew with suspicion, and sometimes outright hostility, seeing amongst their ranks double agents and oppressors. It fell on deaf ears, the Captain was an idealogue of the highest order, and as far as he was concerned he could go to the grave hated by both sides, so long as his home was free. 
+[[The First Revolution]] is where Wasomun became _[[Was'Utala]]_, the Warbird. He and his crew were the terror of the monarchy, launching sorties and surprise attacks at a relentless pace. Wasomun used his years of experience fighting pirates and guerillas to become one, doing everything he could to advance the cause of a free [[Tomoteloma]]. The skill of his crew was matched only by their infamy, and every loyalist longed to be the one to bring the traitors and mutineers to justice. This revulsion by the enemy however, did not necessarily translate into adoration by the rebel forces. They viewed Wasomun and his crew with suspicion, and sometimes outright hostility, seeing amongst their ranks double agents and oppressors. It fell on deaf ears, the Captain was an idealogue of the highest order, and as far as he was concerned he could go to the grave hated by both sides, so long as his home was free. 
 
  [[Victory Day]] was the greatest moment of his life, and [[Annexation Day]] was his undoing. Everything he had worked for was taken from him. His dream of a free [[Tomoteloma]] was shattered. The allied imperial forces, aware of his previous treachery, hunted him like dogs. He went to ground, smuggled onto a [[leviathan hunter]] ship by sympathizers in the [[Vulture Collective]]. There, bereft of his rank, his friends, and his purpose, he spent 3 long years doing the dirty, dishonorable work of  hunting down leviathans and selling their parts to the highest bidder. And it was during this exile where he came face to face with the creature that would change him forever.

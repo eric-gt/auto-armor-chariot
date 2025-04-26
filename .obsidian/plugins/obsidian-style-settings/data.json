@@ -1,3 +1,4 @@
 {
-  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato"
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato",
+  "catppuccin-font-styles@@ctp-italic": "var(--ctp-mauve)"
 }

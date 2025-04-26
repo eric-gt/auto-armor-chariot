@@ -1,1 +1,1 @@
-[[Isaac Was'utala Wasomun ~ The Captain|Captain Wasomun's]] commanding officer during his last days with [[The Tomoteloman Monarchy]]. Died trying to capture him as he was defecting during [[The First Revolution]]
+[[Isaac Was'utala Wasomun|Captain Wasomun's]] commanding officer during his last days with [[The Tomoteloman Monarchy]]. Died trying to capture him as he was defecting during [[The First Revolution]]

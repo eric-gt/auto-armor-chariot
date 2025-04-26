@@ -1,13 +1,18 @@
 ---
-tags:
-  - "#session"
+date: 2025-02-15
+locations:
+  - "[[The Wandering Crow]]"
+  - "[[Nokama]]"
+  - "[[Tomoteloma]]"
 ---
 
-# Session 4
+# Untitled
+## [[Session Notes]]
+### [[Sortie]]
 
 _Establishing shot_ over the wing of [[The Wandering Crow]] as the sun rises over the city of [[Nokama]], a city by the bay with lush, tropical mountains rising above it. At the top of the city sits [[The Winter Palace]], refuge for the exiled [[The Tomoteloman Monarchy|Tomoteloman Monarchy]]. The city was built up around the palace during the period between the [[The First Revolution|first]] and [[The Second Revolution|second]] revolutions.
 
-[[Jesse Anderson]], [[Ommatokoita Ancylos Lichtenberg|Omma]], [[Isaac Was'utala Wasomun ~ The Captain|Isaac]] and [[Yuri Artorianova|Yuri]] stand on the dock as porters bustle about on the docks handling their luggage. The automobiles are being unloaded from the hanger in the background, many damaged in the [[Demon Chariot|Demon]] fight between Omma, Andi and [[Calliope Calamity|CeCe]]. [[Captain Esperanza]] disembarks and thanks the 4 for their assistance. At the mention of demon chariots, Isaac perks up, not having realized the other two were [[Channeler|channelers]]. The captain shakes the other three's hands, and then gives Isaac a traditional [[Tomoteloma|tomateloman ]]goodbye.
+[[Jesse Anderson]], [[Ommatokoita Ancylos Lichtenberg|Omma]], [[Isaac Was'utala Wasomun|Isaac]] and [[Yuri Artorianova|Yuri]] stand on the dock as porters bustle about on the docks handling their luggage. The automobiles are being unloaded from the hanger in the background, many damaged in the [[Demon Chariot|Demon]] fight between Omma, Andi and [[Calliope Calamity|CeCe]]. [[Captain Esperanza]] disembarks and thanks the 4 for their assistance. At the mention of demon chariots, Isaac perks up, not having realized the other two were [[Channeler|channelers]]. The captain shakes the other three's hands, and then gives Isaac a traditional [[Tomoteloma|tomateloman ]]goodbye.
 
 Andi and Isaac take the carriage to their hotel. Omma and Yuri walk. Yuri has _way_ too much luggage, and a friendly tomateloman man comes by and insists on helping out, despite Yuri's breathless protestations. As the trio continue, they run into a woman with some young children, and then a priest, all of whom pitch in to move this insane amount of luggage up the hill. When they arrive at Yuri's hotel (it was supposed to be the fancy one but he accidentally booked the cheapest in the city), Yuri turns to tip his benefactors and finds they have already walked off. Omma looks skeptically at the hotel and Yuri says something about "being in the world". They exchange goodbyes and Omma continues up the hill to the nicer hotel where the other 3 are staying.
 

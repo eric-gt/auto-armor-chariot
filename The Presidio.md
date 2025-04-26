@@ -1,0 +1,1 @@
+[[The Royal Tomoteloman Navy]] installation on [[Nokama]]. Berth of [[The Invisible Hand]].

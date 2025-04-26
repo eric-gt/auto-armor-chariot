@@ -1,15 +1,18 @@
 ---
-tags:
-  - session
+date: 2024-12-14
+locations:
+  - "[[The Wandering Crow]]"
+  - "[[Tomoteloma]]"
 ---
-# Session 2 - The Fog of War 
-### Wavedashing the Dog Mech
-
+#  The Fog of War  
+#### Or, Wavedashing the Dog Mech
+## [[Session Notes]]
+### [[Sortie]]
 [[Denise]] steam dashes into [[Ommatokoita Ancylos Lichtenberg|Omma's]] mech while she's in the process of clambering into it , slamming it across the room and breaking her arm. Steam fills the room, [[Blinded|blinding]] the charioteers.
 
 [[Jesse Anderson]] is able to board her mech and power it on just as [[Gene]] rushes her. She takes [[Heat]] to counter the attack, and counter attacks with [[Nova Whip]], [[Disrupt|disrupting]] Gene's mech.
 
-[[Isaac Was'utala Wasomun ~ The Captain|Isaac]] is being menaced by Pirates from the [[The Reaving Blade]], having just been shot by one of them. Suddenly, a [[Pirate Officer]] descends from the floor above and orders the gang to assist with taking the bridge, leaving Isaac just enough room to escape.  He ducks into the room where [[Yuri Artorianova|Yuri]] is hiding and bandages his wound, stopping the bleeding.
+[[Isaac Was'utala Wasomun|Isaac]] is being menaced by Pirates from the [[The Reaving Blade]], having just been shot by one of them. Suddenly, a [[Pirate Officer]] descends from the floor above and orders the gang to assist with taking the bridge, leaving Isaac just enough room to escape.  He ducks into the room where [[Yuri Artorianova|Yuri]] is hiding and bandages his wound, stopping the bleeding.
 
 [[Ommatokoita Ancylos Lichtenberg| Omma]] [[Weave Magic| weaves magic]] to discern the location of her mech in the mist. She hobbles over and climbs inside the cockpit. As she powers on and connects to the [[Demon Chariot]], its [[Life Sense]] capability turns on and she can gets a bead on Gene, Denise and Andi's mech, [[The Dogged Day]]. Using her [[Alchemical Suite]], she re-knits the bones in her broken arm, and her mech stands up, ready for combat.
 
