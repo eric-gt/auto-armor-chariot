@@ -6,7 +6,6 @@ Played by: [[Violeta June]]
 
 ## [[Risks]]: 
 ## [[Perils]]: 
-[[Limping]]
 # STATS
 ## [[Traits#DEFY|DEFY]]: 0
 ## [[Traits#SENSE|SENSE]]: 1

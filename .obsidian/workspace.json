@@ -4,40 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "8fc6999269f9b263",
-        "type": "tabs",
-        "dimension": 42.7797833935018,
-        "children": [
-          {
-            "id": "c7d7966cddff1927",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Isaac Was'utala Wasomun ~ The Captain.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Isaac Was'utala Wasomun ~ The Captain"
-            }
-          }
-        ]
-      },
-      {
         "id": "3f1d948b58ca5f03",
         "type": "tabs",
-        "dimension": 57.2202166064982,
         "children": [
           {
             "id": "cfd296161c483dab",
@@ -93,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-02-15.md",
+                "file": "Kala Courvoisier.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -108,7 +76,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-15"
+              "title": "Kala Courvoisier"
+            }
+          },
+          {
+            "id": "7b6bf0f5bcc5a856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Episode 7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Episode 7"
             }
           },
           {
@@ -136,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,8 +181,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -280,7 +271,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,34 +284,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e1e1b95e6364cc2",
+  "active": "7b6bf0f5bcc5a856",
   "lastOpenFiles": [
     "The Invisible Hand.md",
-    "Tier.md",
-    "Isaac Was'utala Wasomun ~ The Captain.md",
-    "Leviathans.md",
-    "2025-02-15.md",
-    "Kai Lete Lawa.md",
-    "Alliance High Command.md",
-    "The Amaranton Republic.md",
-    "Queen Augustina Jan Lawa pi Kulupu I.md",
-    "Gravity Clocks.md",
-    "2025-02-08.md",
-    "Character Questionnaire.md",
-    "The Rogue Wave.md",
-    "ruin.md",
-    "bane.md",
-    "distinct.md",
-    "area.md",
-    "Jesse Anderson.md",
-    "versatile.md",
-    "setup.md",
-    "mounted.md",
-    "ranged.md",
-    "impact.md",
-    "defensive.md",
-    "decisive.md",
-    "dangerous.md",
+    "Episode 7.md",
+    "Isaac Was'utala Wasomun.md",
+    "Senior Staff.md",
+    "Kala Courvoisier.md",
+    "Violeta June.md",
+    "Tomoteloman Republic.md",
+    "The Winter Palace.md",
+    "The Presidio.md",
+    "The Leviathan Within.md",
+    "The Gang.md",
+    "Somewhere Nearby.md",
+    "Social Space or Private Quarters.md",
+    "Plan and Prepare.md",
+    "Nokama.md",
+    "Infirmary or Hanger.md",
+    "Holly Doc M’Benga.md",
+    "Episode 6.md",
+    "Episode 5.md",
+    "Episode 4.md",
+    "Episode 3.md",
+    "Episode 2.md",
+    "Episode 1.md",
+    "Dr. Vivian Nimue.md",
+    "Downtime.md",
+    "Connected.md",
     "Untitled.canvas"
   ]
 }

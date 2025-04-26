@@ -22,7 +22,7 @@ manufacturer: "[[The Amaranton Republic]]"
 **[[Tags]]**: [[setup]], [[mounted]], [[impact]], [[guided]], [[dangerous]], [[area]],  [[distinct]], [[ruin]], 
 **Total**: +2
 
-## Secondary [[Weapon]]s
+## Secondary [[Weapon|Weapons]]
 **Name**: 
 **Tier**: 3
 **Range**: [[ranged]]
