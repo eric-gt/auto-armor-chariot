@@ -14,7 +14,7 @@ locations:
 
 ---
 
-[[Yuri Artorianova|Yuri]] and [[Isaac "Was'utala" Wasomun|Isaac]] attempt to take the pirate officer hostage and negotiate passage into the bridge...and it doesn't go well. The pirates open fire at Isaac, who shoots out a light and escapes to the stairwell. Yuri makes a break in the opposite direction, firing wildly. Predictably, a ricochet hits Isaac in the calf. He hides in the stairwell, dressing his wound, as Yuri discovers a back entrance to the bridge and is ushered inside by a crewmember.
+[[Yuri Artorianova|Yuri]] and [[Isaac Was'utala Wasomun|Isaac]] attempt to take the pirate officer hostage and negotiate passage into the bridge...and it doesn't go well. The pirates open fire at Isaac, who shoots out a light and escapes to the stairwell. Yuri makes a break in the opposite direction, firing wildly. Predictably, a ricochet hits Isaac in the calf. He hides in the stairwell, dressing his wound, as Yuri discovers a back entrance to the bridge and is ushered inside by a crewmember.
 
 ---
 Andi overcharges The Dogged Day's main gun and shoots a hole through Gunpowder Cassanova's cloak, hitting her and letting out a burst of demon water, like blood. CeCe returns fire with a salvo. A very fun and badass battle ensues where Omma cuts off one of Gunpowder Cassanova’s arms, and CeCe reveals another set of arms. I didn’t write it all down but it was badass.

@@ -31,11 +31,11 @@ manufacturer: "[[The Amaranton Republic]]"
 
 
 # [[Crew]]
-[[Captain]]: [[Isaac "Was'utala" Wasomun]]
+[[Captain]]: [[Isaac Was'utala Wasomun]]
 [[First Mate]]: [[Carolyn Jack]]
 [[Boatswain]]: [[Kala Courvoisier]]
 [[Ship's Doctor]]: [[Leo Socorrin]]
-[[Ship's Engineer]]: [[Holly “Doc” M’Benga]]
+[[Ship's Engineer]]: [[Holly Doc M’Benga]]
 [[Chief of Security]]: [[Jan Utala]]
 [[Quartermaster]]: [[John Merrigold]]
 [[Demon Chariot|Demon]] Engineer: [[Jesse Anderson]] and [[Ommatokoita Ancylos Lichtenberg|Lichtenberg]]'s 

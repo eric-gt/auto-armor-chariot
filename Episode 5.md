@@ -10,7 +10,7 @@ locations:
 ### [[Roleplay]]
 *Interior Shot*: a black steam powered car with bench seats. [[The Gang]] sit with [[Kai Lete Lawa]] on their way to [[The Winter Palace]]. 
 Kai: 
-> To be clear, I'm asking for Mister [[Isaac "Was'utala" Wasomun|Wasomun]] here to be the captain, for Mister [[Yuri Artorianova|Artorianova]] to be the diplomat on board, and for Mister [[Jesse Anderson|Anderson]] and Miss [[Ommatokoita Ancylos Lichtenberg|Lichtenberg]] to serve as your [[Channeler]] complement...Nobody was our first choice for the position, but every one of you  is competent, and many are excellent
+> To be clear, I'm asking for Mister [[Isaac Was'utala Wasomun|Wasomun]] here to be the captain, for Mister [[Yuri Artorianova|Artorianova]] to be the diplomat on board, and for Mister [[Jesse Anderson|Anderson]] and Miss [[Ommatokoita Ancylos Lichtenberg|Lichtenberg]] to serve as your [[Channeler]] complement...Nobody was our first choice for the position, but every one of you  is competent, and many are excellent
 
 Until the program is proven, [[The Tomoteloman Monarchy|the Monarchy]] does not want to release new recruits. Kai is taking the gang to meet with the rest of the [[Senior Staff]]. 
 
@@ -27,7 +27,7 @@ The group moves inside, past functionaries and nobles dressed anywhere from trad
 
 - [[Carolyn Jack]]: First mate. A tomoteloman calico catgirl  dressed in a [[Tomoteloman Republic]] military uniform
 - [[Leo Socorrin]]: Ship's Doctor. Young Alexander Siddiq dressed in contemporary court clothing, with an eager look on his face.
-- [[Holly “Doc” M’Benga]]: Chief Engineer. A weathered, middle aged sea dog looking lady, about Isaac's age. Black, not Tomoteloman
+- [[Holly Doc M’Benga]]: Chief Engineer. A weathered, middle aged sea dog looking lady, about Isaac's age. Black, not Tomoteloman
 - [[Kala Courvoisier]]: Boatswain. A european looking woman in her thirties, clad in a [[Leonan Empire|Leonan]] deckhand's uniform
 - [[Jan Utala]]: Chief of Security. A Tomoteloman man in his mid twenties in a [[Royal Tomoteloman Marines]] uniform
 - [[John Merrigold]]: Quartermaster. A southern guy of average height, a strong man with a few extra pounds on him
