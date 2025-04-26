@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Episode 7.md",
+                "file": "Huginn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Episode 7"
+              "title": "Huginn"
             }
           },
           {
@@ -286,8 +286,9 @@
   },
   "active": "7b6bf0f5bcc5a856",
   "lastOpenFiles": [
-    "The Invisible Hand.md",
     "Episode 7.md",
+    "Huginn.md",
+    "The Invisible Hand.md",
     "Isaac Was'utala Wasomun.md",
     "Senior Staff.md",
     "Kala Courvoisier.md",
@@ -311,7 +312,6 @@
     "Episode 1.md",
     "Dr. Vivian Nimue.md",
     "Downtime.md",
-    "Connected.md",
     "Untitled.canvas"
   ]
 }

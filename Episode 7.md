@@ -10,3 +10,9 @@ We find ourselves in front of [[The Invisible Hand]]. The [[crew]] of the ship i
 
 "She's all yours Captain"
 "The skies await Mister Jack. Take her out"
+
+# Episode 2
+
+
+[[Huginn]] 
+"And kush beget Nimrod..."
